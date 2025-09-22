@@ -4,13 +4,13 @@
     <div class="container-fluid px-0">
         <div class="row align-items-center">
             <div class="col-lg-12">
-                <img src="img/Thank-You.webp?ver<?php echo time(); ?>" class="w-100" />
+                <img src="assets/img/Thank-You.webp?ver<?php echo time(); ?>" class="w-100" />
             </div>
         </div>
     </div>
 </div>
 
-<div class="thankyou-div">
+<div class="thankyou-div pt-5 pb-5">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
