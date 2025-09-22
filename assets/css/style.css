@@ -13231,7 +13231,7 @@ textarea.style-radious {
 .scroll-top {
   position: fixed;
   right: 30px;
-  bottom: 30px;
+  bottom: 70px;
   height: 50px;
   width: 50px;
   cursor: pointer;

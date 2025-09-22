@@ -29,6 +29,7 @@ if ($_SERVER['REQUEST_URI'] == "/AllVege/index.php" || $_SERVER['REQUEST_URI'] =
 ?>
 
 <body>
+<?php include('pop-model.php'); ?>
     <div class="as-menu-wrapper">
         <div class="as-menu-area text-center">
             <button class="as-menu-toggle"><i class="fal fa-times"></i></button>
