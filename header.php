@@ -95,7 +95,7 @@ if ($_SERVER['REQUEST_URI'] == "/AllVege/index.php" || $_SERVER['REQUEST_URI'] =
 
                                 <li><i class="far fa-phone"></i><a href="tel:+917600814075">+91 76008 14075</a></li>
                                 <li><i class="far fa-envelope"></i>
-                                    <a href="mailto:info@allvage.com">info@allvage.com</a>
+                                    <a href="mailto:info@allvege.co.in">info@allvege.co.in</a>
                                 </li>
                             </ul>
                         </div>

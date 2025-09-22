@@ -5,7 +5,7 @@ return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|h
 $companyname = "AllVege Process Technology";
 $phone = "+91 76008 14075"; /* FORMATE: +91 00000 00000 */
 $whatappphone = $whatappphone1 = "917600814075";/* FORAMTE: 91000000000 */
-$email = "info@allvage.com";
+$email = "info@allvege.co.in";
 $logo = "assets/img/logo/all-vege-logo.webp"; /* FORMATE: images/logo3.png */
 $message = "Hello Team ".$companyname.", I was going through your Website, Please connect me for product discussion.";
 ?>

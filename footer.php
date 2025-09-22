@@ -56,7 +56,7 @@
                             <li><i class="fa fa-envelope"></i>
                                 <a href="mailto:sales@allvege.co.in" onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': 'sales@allvege.co.in' });">sales@allvege.co.in</a>
                             </li>
-                            <li><i class="fa fa-envelope"></i> <a href="mailto:info@allvege.co.in" onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': 'info@allvege.co.in' });">info@allvage.com</a>
+                            <li><i class="fa fa-envelope"></i> <a href="mailto:info@allvege.co.in" onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': 'info@allvege.co.in' });">info@allvege.co.in</a>
                             </li>
                         </ul>
                     </div>

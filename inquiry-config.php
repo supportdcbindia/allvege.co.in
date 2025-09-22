@@ -14,8 +14,8 @@ define('THANK_YOU_CATALOGUE_PAGE', 'thankyou-catalogue.php');
 define('IS_DOMESTIC', true);
 
 ## EMAIL Settings
-define('FROM_EMAIL', 'info@allvage.com');
-define('TO_EMAIL', 'info@allvage.com');
+define('FROM_EMAIL', 'info@allvege.co.in');
+define('TO_EMAIL', 'info@allvege.co.in');
 define('CC_EMAIL', '');
 define('EMAIL_SUBJECT', 'New Inquiry From '.COMPANY_NAME.' Website');
 define('CATALOGUE_EMAIL_SUBJECT', 'New Catalogue Request From '.COMPANY_NAME.' Website');
