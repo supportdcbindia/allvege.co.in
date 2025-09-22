@@ -51,6 +51,12 @@
                             </div>
                             <div class="form-group has-feedback">
                                 <div class="col-md-12">
+                                    <input name="company_name" id="company_name" type="text" placeholder="Company Name"
+                                        class="form-control">
+                                </div>
+                            </div>
+                            <div class="form-group has-feedback">
+                                <div class="col-md-12">
                                     <input name="email" id="email" type="text" placeholder="E-Mail Address"
                                         class="form-control">
                                 </div>
