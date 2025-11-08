@@ -16629,5 +16629,6 @@ section.sec-pad .container {
   .carousel-control-next-icon,
   .carousel-control-prev-icon {
     background-color: transparent !important;
+    filter: invert(1) !important;
   }  
 }
