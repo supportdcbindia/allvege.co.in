@@ -16628,6 +16628,6 @@ section.sec-pad .container {
 @media (max-width: 991px) {
   .carousel-control-next-icon,
   .carousel-control-prev-icon {
-    background-color: transparent;
+    background-color: transparent !important;
   }  
 }
