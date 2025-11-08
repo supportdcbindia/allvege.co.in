@@ -16624,3 +16624,10 @@ section.sec-pad .container {
     max-height: 600px !important;
     overflow: auto;
 }
+
+@media (max-width: 991px) {
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    background-color: transparent;
+  }  
+}
