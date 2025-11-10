@@ -1,39 +1,58 @@
 <?php include("header.php"); ?>
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-  
-  <!-- Slides -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="assets/img/banners/allvege-b1.webp?ver=1.2" class="d-block w-100" alt="Allvege Process Technologies">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/img/banners/allvege-b2.webp?ver=1.2" class="d-block w-100" alt="Allvege Process Technologies">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/img/banners/allvege-b3.webp?ver=1.2" class="d-block w-100" alt="Allvege Process Technologies">
-    </div>
-  </div>
 
-  <!-- Dots (Indicators) -->
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="0" class="active"
-      aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="1"
-      aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="2"
-      aria-label="Slide 3"></button>
-  </div>
+    <!-- Slides -->
+    <div class="carousel-inner">
+        <!-- Slide 1 -->
+        <div class="carousel-item active">
+            <!-- Desktop Banner -->
+            <img src="assets/img/banners/allvege-b1.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
+            <!-- Mobile Banner -->
+            <img src="assets/img/banners/mob-banner/allvege-mob-b1.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
+        </div>
 
-  <!-- Arrows -->
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+        <!-- Slide 2 -->
+        <div class="carousel-item">
+            <img src="assets/img/banners/allvege-b2.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/mob-banner/allvege-mob-b2.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item">
+            <img src="assets/img/banners/allvege-b3.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/mob-banner/allvege-mob-b3.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
+        </div>
+    </div>
+
+    <!-- Dots (Indicators) -->
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleControls" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+
+    <!-- Arrows -->
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+
 </div>
+
+<script>
+  // ✅ Optional: Ensure swipe works smoothly on touch devices
+  const carousel = document.querySelector('#carouselExampleControls');
+  const carouselInstance = new bootstrap.Carousel(carousel, {
+    interval: 4000, // Auto slide every 4s (optional)
+    touch: true,    // Enable swipe on mobile
+    pause: false
+  });
+</script>
+
 
 <div class="space" id="about-sec">
     <div class="container">
