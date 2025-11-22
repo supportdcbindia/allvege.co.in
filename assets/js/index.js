@@ -237,7 +237,7 @@ jQuery(document).ready(function() {
         required: true,
         namenew: true,
       },
-       cname: {
+       company_name: {
         required: true,
         namenew: true,
       },
@@ -266,7 +266,7 @@ jQuery(document).ready(function() {
         required: 'This Filed is required',
         namenew: 'Please Enter atleast 2 words',
       },
-      cname: {
+      company_name: {
         required: 'This Filed is required',
         namenew: 'Please Enter atleast 2 words',
       },
@@ -317,7 +317,7 @@ jQuery(document).ready(function() {
         required: true,
         namenew: true,
       },
-       cname: {
+       company_name: {
         required: true,
         namenew: true,
       },
@@ -346,7 +346,7 @@ jQuery(document).ready(function() {
         required: 'This Filed is required',
         namenew: 'Please Enter atleast 2 words',
       },
-      cname: {
+      company_name: {
         required: 'This Filed is required',
         namenew: 'Please Enter atleast 2 words',
       },

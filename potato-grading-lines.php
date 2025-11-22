@@ -197,7 +197,7 @@
                                 <input name="name" id="name" type="text" placeholder="Name" class="form-control">
                             </div>
                             <div class="col-md-6">
-                                <input name="cname" id="cname" type="text" placeholder="Company Name" class="form-control">
+                                <input name="company_name" id="company_name" type="text" placeholder="Company Name" class="form-control">
                             </div>
 
                             <div class="col-md-6">
