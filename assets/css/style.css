@@ -1650,7 +1650,7 @@ ul.wp-block-rss a {
   font-family: var(--title-font);
   text-transform: uppercase;
   margin-top: -0.41em;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   position: relative;
   display: -webkit-box;
   display: -webkit-flex;
@@ -16704,5 +16704,13 @@ section.sec-pad .container {
     background-color: #00a859; /* your brand color (change as needed) */
     opacity: 1;
     transform: scale(1.2);
+  }
+
+  .title-area {
+    margin-top: 40px;
+  }
+
+  .productSec .pt-40 {
+    padding-top: 20px !important;
   }
 }

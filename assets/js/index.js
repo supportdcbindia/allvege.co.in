@@ -310,5 +310,85 @@ jQuery(document).ready(function() {
       jQuery(element).remove();
     }
   });
+
+   jQuery('.form5').validate({
+    rules: {
+      name: {
+        required: true,
+        namenew: true,
+      },
+       cname: {
+        required: true,
+        namenew: true,
+      },
+      email: {
+        required: true,
+        email:true,
+      },
+      city: {
+        required: true,
+        namenew: true,
+      },
+      number: {
+        required: true,
+        number: true,
+      },
+      message: {
+        required: true,
+        msg: true,
+      },
+      captcha: {
+        required: true,
+      },
+    },
+    messages: {
+      name: {
+        required: 'This Filed is required',
+        namenew: 'Please Enter atleast 2 words',
+      },
+      cname: {
+        required: 'This Filed is required',
+        namenew: 'Please Enter atleast 2 words',
+      },
+      email: {
+        required: 'This Filed is required',
+        email: 'Please Enter Valid Email Id',
+      },
+      city: {
+        required: 'This Filed is required',
+        namenew: 'Please Enter atleast 2 words',
+      },
+      code: {
+        required: 'This Filed is required',
+      },
+      number: {
+        required: 'This Filed is required',
+        number: 'Please Enter Valid Mobile Number',
+      },
+      message: {
+        required: 'This Filed is required',
+        msg: 'Please Enter atleast 2 words & Special Character Not Allowed',
+      },
+      captcha: {
+        required: 'This Filed is required',
+      },
+    },
+
+    submitHandler: function(form) { // <- pass 'form' argument in
+            jQuery(".submit").val("Please Wait...").attr("disabled", true);
+            form.submit(); // <- use 'form' argument here.
+        },
+    
+    highlight: function(element, errorClass, validClass) { 
+      jQuery(element).nextAll('.form-control-feedback').show().removeClass('glyphicon-ok').addClass('glyphicon-remove');
+      jQuery(element).addClass(errorClass).removeClass(validClass);
+      jQuery(element).closest('.form-group').removeClass('has-success').addClass('has-error');
+    },
+    success: function(element) {
+      jQuery(element).nextAll('.form-control-feedback').show().removeClass('glyphicon-remove').addClass('glyphicon-ok');
+   element.closest('.form-group').removeClass('has-error').addClass('has-success');
+      jQuery(element).remove();
+    }
+  });
 });
 

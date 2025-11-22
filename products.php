@@ -11,6 +11,46 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
+                        <a href="potato-grading-lines.php">
+                            <img src="assets/img/products/landing/potato-grading-lines.webp"
+                                alt="Potato Grading & Sorting Lines">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="potato-grading-lines.php">Potato Grading & Sorting Lines</a>
+                            </h3>
+                        </div>
+                        <a href="potato-grading-lines.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="onion-grading-lines.php">
+                            <img src="assets/img/products/landing/potato-grading-lines.webp"
+                                alt="Onion Grading & Sorting Lines">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="onion-grading-lines.php">Onion Grading & Sorting Lines</a>
+                            </h3>
+                        </div>
+                        <a href="onion-grading-lines.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
                         <a href="receiving-hopper-10-tph.php">
                             <img src="assets/img/products/landing/receiving-hopper.webp"
                                 alt="Receiving Hopper (10 TPH)">

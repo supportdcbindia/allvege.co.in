@@ -474,3 +474,58 @@ a.content-p{
   footer form .col-md-12 {
     padding: 0px;
 }
+
+.inquiryFormBox {
+    background: #ffffff;
+    padding: 30px 25px;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.10);
+}
+
+.inquiryFormBox .form-control {
+    height: 48px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    padding-left: 15px;
+    font-size: 15px;
+}
+
+.inquiryFormBox textarea.form-control {
+    height: auto;
+    resize: none;
+}
+
+.submitbutton {
+    width: 100%;
+    padding: 14px;
+    font-size: 17px;
+    border-radius: 6px;
+    font-weight: 600;
+    border: none;
+    background-color: #01813d; /* change based on theme */
+    color: #fff;
+    transition: .3s;
+}
+
+.submitbutton:hover {
+    background-color: #014e25;
+}
+
+.inquiryFormBox input::placeholder,
+.inquiryFormBox select::placeholder,
+.inquiryFormBox textarea::placeholder {
+    color: #b8b8b8;
+}
+
+.inquiryFormBox .error {
+    color: #e52a30;
+    padding: 2px 3px;
+    font-size: 13px;
+}
+
+/* Responsive */
+@media (max-width: 991px) {
+    .inquiryFormBox {
+        margin-top: 25px;
+    }
+}
