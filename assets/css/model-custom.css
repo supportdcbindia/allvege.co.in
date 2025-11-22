@@ -523,6 +523,11 @@ a.content-p{
     font-size: 13px;
 }
 
+.inquiryFormBox .capside {
+    width: 90px !important;
+    margin-top: 9px;
+}
+
 /* Responsive */
 @media (max-width: 991px) {
     .inquiryFormBox {
