@@ -38,6 +38,7 @@
                                 industrial processor, ALLVEGE provides <strong>fully customized grading systems</strong> tailored to your capacity
                                 and quality requirements.</p>
                         </div>
+                        <?php include('product-inner-btn.php'); ?>
                     </div>
                 </div>
 
@@ -45,101 +46,12 @@
         </div>
     </div>
 
-    <!-- Key Features Section -->
-    <div class="featureSection bgGrey pt-40 pb-40">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="title-area mb-4">
-                        <span class="sub-title">Performance Highlights
-                            <span class="shape right"><span class="dots"></span></span>
-                        </span>
-                        <h2 class="sec-title mb-0">What Makes Our Grading Lines Superior</h2>
-                    </div>
-
-                    <ul class="list-style-one">
-                        <li>High-precision grading based on size, weight, or quality</li>
-                        <li>Modular design – scalable and compatible with existing equipment</li>
-                        <li>Heavy-duty conveyors & rollers for continuous operation</li>
-                        <li>Advanced washing & cleaning systems with minimal water wastage</li>
-                        <li>User-friendly controls for easy operation & maintenance</li>
-                        <li>Stainless steel construction ensuring hygiene & long service life</li>
-                        <li>Reduced labor costs with advanced automation</li>
-                        <li>Customizable output conveyors with packing integration</li>
-                    </ul>
-                </div>
-
-                <div class="col-md-6">
-                    <div class="title-area mb-4">
-                        <span class="sub-title">Industry Uses
-                            <span class="shape right"><span class="dots"></span></span>
-                        </span>
-                        <h2 class="sec-title mb-0">Where Our Systems Deliver Efficiency</h2>
-                    </div>
-
-                    <ul class="list-style-one two-column">
-                        <li>Potato chips & French fries manufacturing units</li>
-                        <li>Seed potato suppliers</li>
-                        <li>Vegetable processing plants</li>
-                        <li>Agricultural cooperatives</li>
-                        <li>Cold storage sorting operations</li>
-                        <li>Farm-level grading & packing centers</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Why Choose Section -->
-    <div class="whychooseSec pt-40 pb-40">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="title-area mb-4">
-                        <span class="sub-title">Our Competitive Edge
-                            <span class="shape right"><span class="dots"></span></span>
-                        </span>
-                        <h2 class="sec-title mb-0">Why Industries Choose ALLVEGE</h2>
-                    </div>
-
-                    <ul class="list-style-one">
-                        <li>End-to-end solutions – washing to final packaging</li>
-                        <li>High durability – built for continuous industrial operation</li>
-                        <li>Low maintenance – reduced downtime & easy service access</li>
-                        <li>Energy efficient – smart control systems & optimized motors</li>
-                    </ul>
-                </div>
-
-                <div class="col-md-6">
-                    <div class="title-area mb-4">
-                        <span class="sub-title">System Variants
-                            <span class="shape right"><span class="dots"></span></span>
-                        </span>
-                        <h2 class="sec-title mb-0">Available Grading Line Configurations</h2>
-                    </div>
-
-                    <ul class="list-style-one">
-                        <li>Size Grading Line</li>
-                        <li>Roller Inspection & Sorting Line</li>
-                        <li>Weight Grading Systems</li>
-                        <li>Optical Sorting Integration (optional)</li>
-                        <li>Complete Washing + Grading + Conveying line</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Table Section -->
-    <!-- Table + Form Section -->
-    <!-- Table + Form Section -->
-    <!-- Table + Form Section -->
     <div class="tableData bgGrey pt-40 pb-40">
         <div class="container">
             <div class="row g-5">
 
                 <!-- Left side: Table -->
-                <div class="col-md-7">
+                <div class="col-md-12">
                     <div class="title-area mb-4">
                         <span class="sub-title">Technical Capacities
                             <span class="shape right"><span class="dots"></span></span>
@@ -181,9 +93,101 @@
                         </table>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
 
+    <!-- Key Features Section -->
+    <div class="featureSection pt-40 pb-40">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="title-area mb-4">
+                        <span class="sub-title">Performance Highlights
+                            <span class="shape right"><span class="dots"></span></span>
+                        </span>
+                        <h2 class="sec-title mb-0">What Makes Our Grading Lines Superior</h2>
+                    </div>
+
+                    <ul class="list-style-one">
+                        <li>High-precision grading based on size, weight, or quality</li>
+                        <li>Modular design – scalable and compatible with existing equipment</li>
+                        <li>Heavy-duty conveyors & rollers for continuous operation</li>
+                        <li>Advanced washing & cleaning systems with minimal water wastage</li>
+                        <li>User-friendly controls for easy operation & maintenance</li>
+                        <li>Stainless steel construction ensuring hygiene & long service life</li>
+                    </ul>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="title-area mb-4">
+                        <span class="sub-title">Industry Uses
+                            <span class="shape right"><span class="dots"></span></span>
+                        </span>
+                        <h2 class="sec-title mb-0">Where Our Systems Deliver Efficiency</h2>
+                    </div>
+
+                    <ul class="list-style-one two-column">
+                        <li>Potato chips & French fries manufacturing units</li>
+                        <li>Seed potato suppliers</li>
+                        <li>Vegetable processing plants</li>
+                        <li>Agricultural cooperatives</li>
+                        <li>Cold storage sorting operations</li>
+                        <li>Farm-level grading & packing centers</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Why Choose Section -->
+    <div class="whychooseSec bgGrey pt-40 pb-40">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="title-area mb-4">
+                        <span class="sub-title">Our Competitive Edge
+                            <span class="shape right"><span class="dots"></span></span>
+                        </span>
+                        <h2 class="sec-title mb-0">Why Industries Choose ALLVEGE</h2>
+                    </div>
+
+                    <ul class="list-style-one">
+                        <li>End-to-end solutions – washing to final packaging</li>
+                        <li>High durability – built for continuous industrial operation</li>
+                        <li>Low maintenance – reduced downtime & easy service access</li>
+                        <li>Energy efficient – smart control systems & optimized motors</li>
+                    </ul>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="title-area mb-4">
+                        <span class="sub-title">System Variants
+                            <span class="shape right"><span class="dots"></span></span>
+                        </span>
+                        <h2 class="sec-title mb-0">Available Grading Line Configurations</h2>
+                    </div>
+
+                    <ul class="list-style-one">
+                        <li>Size Grading Line</li>
+                        <li>Roller Inspection & Sorting Line</li>
+                        <li>Weight Grading Systems</li>
+                        <li>Complete Washing + Grading + Conveying line</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Table Section -->
+    <!-- Table + Form Section -->
+    <!-- Table + Form Section -->
+    <!-- Table + Form Section -->
+    <div class="tableData pt-40 pb-40">
+        <div class="container">
+            <div class="row justify-content-center">
                 <!-- Right side: Form (content NOT changed) -->
-                <div class="col-md-5">
+                <div class="col-md-8">
                     <form class="inquiryFormBox form5" action="inquiry-action.php" method="post" novalidate="novalidate">
 
                         <div class="title-area mb-4">

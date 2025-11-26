@@ -16713,4 +16713,8 @@ section.sec-pad .container {
   .productSec .pt-40 {
     padding-top: 20px !important;
   }
+
+  .footer-bottom {
+    padding-bottom: 30px;
+  }
 }

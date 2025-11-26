@@ -2,48 +2,10 @@
     <div class="upper-box">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-12">
-                    <div class="about-widget">
+                <div class="col-md-5">
+                    <div class="about-widget contact-widget">
                         <div class="logo"><a href="index.php"><img src="./assets/img/logo/all-vege-footer.webp" alt=""></a>
                         </div>
-                        <div class="text">
-                            Allvege Process Technologies is a leading manufacturer of advanced post-harvest equipment, specializing in high-performance Potato Grading Lines. Our comprehensive product range includes Receiving Hoppers, Grading Machines (Sizers), Inspection Tables, Elevators, Brushers, Ground Pickers, Box Fillers, Radial Graders, and Box Tippers — all engineered to ensure efficient, accurate, and hygienic processing.
-                        </div>
-                        <ul class="social-links">
-                            <li><a href="javascript:;"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="javascript:;"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="javascript:;"><i class="fab fa-google-plus-g"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="links-widget">
-                        <h4 class="widget_title">Quick Links</h4>
-                        <div class="widget-content">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <ul class="list">
-                                        <li><a href="index.php">Home</a></li>
-                                        <li><a href="about-us.php">About Us</a></li>
-                                        <li><a href="products.php">Products</a></li>
-                                        <li><a href="process-flow.php">Process Flow</a></li>
-
-                                    </ul>
-                                </div>
-                                <div class="col-md-6">
-                                    <ul class="list">
-                                        <li><a href="industires-we-serve.php">Industires We Serve</a></li>
-                                        <li><a href="gallery.php">Gallery</a></li>
-                                        <li><a href="contact.php">Contact</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="contact-widget">
-                        <h4 class="widget_title">Get In Touch</h4>
                         <ul>
                             <li><i class="fa fa-map-marker-alt"></i><b>Address:</b><br />
                                 Survey No. 381, Village - Vasna Rathod, <br>
@@ -61,7 +23,67 @@
                         </ul>
                     </div>
                 </div>
+                <div class="col-md-3">
+                    <div class="links-widget">
+                        <h4 class="widget_title">Quick Links</h4>
+                        <div class="widget-content">
+                            <ul class="list">
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about-us.php">About Us</a></li>
+                                <li><a href="products.php">Products</a></li>
+                                <li><a href="process-flow.php">Process Flow</a></li>
+                                <li><a href="industires-we-serve.php">Industires We Serve</a></li>
+                                <li><a href="gallery.php">Gallery</a></li>
+                                <li><a href="contact.php">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
 
+                <div class="col-md-4">
+                    <h4 class="widget_title">Get In Touch</h4>
+                    <form class="inquiryFormBox form4" action="inquiry-action.php" method="post" novalidate="novalidate">
+
+                        <div class="title-area mb-4">
+                            <span class="sub-title">Get In Touch
+                                <span class="shape right"><span class="dots"></span></span>
+                            </span>
+                        </div>
+
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <input name="name" id="name" type="text" placeholder="Name" class="form-control">
+                            </div>
+                            <div class="col-md-6">
+                                <input name="company_name" id="company_name" type="text" placeholder="Company Name" class="form-control">
+                            </div>
+
+                            <div class="col-md-6">
+                                <input name="email" id="email" type="text" placeholder="E-Mail Address" class="form-control">
+                            </div>
+                            <div class="col-md-6">
+                                <input name="city" id="city" type="text" placeholder="City" class="form-control">
+                            </div>
+
+                            <div class="col-md-12">
+                                <input name="number" id="number" type="tel" placeholder="Phone" maxlength="15" minlength="10" class="form-control number21">
+                            </div>
+                            <div class="col-md-12">
+                                <textarea class="form-control" name="message" id="message" placeholder="Requirement"></textarea>
+                            </div>
+
+                            <div class="col-md-6">
+                                <input name="captcha" id="captcha" placeholder="Captcha Code" class="form-control" type="text">
+                            </div>
+                            <div class="col-md-6">
+                                <img src="captcha.php" class="capside w-100" alt="captcha">
+                            </div>
+                        </div>
+
+                        <input name="submit" class="submit submitbutton w-100 mt-3" type="submit" value="Submit Now!">
+
+                    </form>
+                </div>
             </div>
         </div>
     </div>
@@ -116,8 +138,8 @@
             spaceBetween: 15,
             speed: 900,
             autoplay: {
-              delay: 2000,
-              disableOnInteraction: false
+                delay: 2000,
+                disableOnInteraction: false
             },
             navigation: {
                 prevEl: '.product-prev',
