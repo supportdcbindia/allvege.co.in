@@ -60,7 +60,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <a href="products.php">Products</a>
                         <ul class="sub-menu">
                             <li><a href="potato-grading-lines.php">Potato Grading & Sorting Lines</a></li>
-                            <li><a href="onion-processing-line.php">Onion Grading & Sorting Lines</a></li>
+                            <li><a href="onion-grading-lines.php">Onion Grading & Sorting Lines</a></li>
                             <li><a href="receiving-hopper-10-tph.php">Receiving Hopper (10 TPH)</a></li>
                             <li><a href="elevator-conveyor.php">Elevator Conveyor</a></li>
                             <li><a href="elevator-conveyor-jumbo-bag-filler.php">Elevator Conveyor Jumbo bag filler</a></li>
