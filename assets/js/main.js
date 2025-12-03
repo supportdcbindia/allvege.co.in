@@ -265,6 +265,50 @@
                 slidesToShow: 1
             }
         }]
+    }), e("#relatedProductSlider").slick({
+        centerMode: !0,
+        // centerPadding: "330px",
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: !1,
+        autoplay: !0,
+        speed: 1e3,
+        autoplaySpeed: 2e3,
+        focusOnSelect: !0,
+        prevArrow: '<button class="slick-prev custom-arrow"><i class="fa-solid fa-angle-left"></i></button>',
+        nextArrow: '<button class="slick-next custom-arrow"><i class="fa-solid fa-angle-right"></i></button>',
+        responsive: [{
+            breakpoint: 1670,
+            settings: {
+                centerPadding: "100px",
+                slidesToShow: 3
+            }
+        }, {
+            breakpoint: 1199,
+            settings: {
+                centerPadding: "300px",
+                slidesToShow: 1
+            }
+        }, {
+            breakpoint: 992,
+            settings: {
+                centerPadding: "200px",
+                slidesToShow: 1
+            }
+        }, {
+            breakpoint: 767,
+            settings: {
+                centerPadding: "50px",
+                slidesToShow: 1
+            }
+        }, {
+            breakpoint: 440,
+            settings: {
+                centerPadding: "0",
+                slidesToShow: 1
+            }
+        }]
     });
     var n, i, r, l = ".ajax-contact",
         c = '[name="email"]',

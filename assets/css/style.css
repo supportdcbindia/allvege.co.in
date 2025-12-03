@@ -10278,7 +10278,7 @@ ul.comment-list .as-comment-item:first-child > .as-post-comment {
   background: var(--white-color);
   box-shadow: 0 4px 15px rgba(7, 36, 95, 0.1);
   border-radius: 10px;
-  padding: 30px;
+  padding: 15px 20px 20px 20px;
   width: calc(100% - 40px);
   margin: 0 auto;
   position: relative;
@@ -10536,17 +10536,19 @@ ul.comment-list .as-comment-item:first-child > .as-post-comment {
   transition: 0.4s ease-in-out;
 }
 .project-box .project-content {
-  position: absolute;
-  bottom: 20px;
-  left: 20px;
+  position: relative;
+  bottom: 25px;
+  left: 0px;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: 0.4s ease-in-out;
   transition: 0.4s ease-in-out;
-  -webkit-transform: translateY(50px);
-  -ms-transform: translateY(50px);
-  transform: translateY(50px);
+  -webkit-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
   border-radius: 0;
+  opacity: 1 !important;
+  visibility: visible !important;
 }
 .project-box .project-icon {
   position: absolute;
@@ -16672,6 +16674,28 @@ section.sec-pad .container {
 /* Default: show arrows, hide dots */
 .carousel-indicators {
   display: none;
+}
+
+.related-product-sec {
+    padding: 50px 70px 60px 70px;
+}
+
+.related-product-sec .slick-arrow.slick-next {
+  right: 25px !important;
+}
+
+.related-product-sec .slick-arrow.slick-prev {
+  left: 25px !important;
+}
+
+@media (max-width: 991px) {
+  .related-product-sec {
+      padding: 30px 20px;
+  }
+
+  .project-box .project-title {
+      font-size: 16px;
+  }
 }
 
 @media (max-width: 768px) {

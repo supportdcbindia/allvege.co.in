@@ -46,4 +46,5 @@
         </div>
     </div>
 </div>
+<?php include('related-products.php')  ?>
 <?php include('footer.php')  ?>
