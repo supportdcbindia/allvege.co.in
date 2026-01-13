@@ -40,6 +40,12 @@
                             </span>
                             <h2 class="sec-title mb-0"> Shake Grader</h2>
                         </div>
+                        <div class="desc">
+                            <p>At <strong>ALLVEGE</strong>, our <strong>Shake Graders</strong> are engineered to deliver maximum efficiency, precise size grading, and superior product quality for vegetable and agricultural processing industries of all scales. Designed with advanced vibration technology and robust construction, our shake graders help businesses achieve accurate separation with minimal product damage and manual intervention.</p>
+
+                            <p>Our shake graders are suitable for <strong>potatoes, onions, fruits, vegetables, seeds</strong>, and many other agricultural products. Whether you are a small farm, mid-scale processor, or large industrial facility, ALLVEGE provides <strong>fully customized shake grading solutions</strong> tailored to your capacity, product type, and grading requirements.</p>
+                        </div>
+
                     </div>
                 </div>
             </div>
