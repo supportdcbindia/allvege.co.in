@@ -72,7 +72,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="shake-grader.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/details/shake-grader/shake-grader-1.webp"
                                 alt="Shake Grader">
                         </a>
                     </div>
@@ -440,7 +440,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="single-side-box-filler.php">
-                            <img src="assets/img/box-filler.webp"
+                            <img src="assets/img/products/details/box-filler/box-filler-2.webp"
                                 alt="Single side Box Filler">
                         </a>
                     </div>
@@ -460,7 +460,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="bag-filler.php">
-                            <img src="assets/img/products/details/bag-filler/bag-filler-2.webp"
+                            <img src="assets/img/image-available-soon.webp"
                                 alt="Bag Filler">
                         </a>
                     </div>
