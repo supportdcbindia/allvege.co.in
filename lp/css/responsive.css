@@ -1,0 +1,386 @@
+@media only screen and (min-width: 1400px) and (max-width: 1540px) {
+	p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.75em;
+        color: #727272;
+        margin-bottom: 10px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: .2rem!important;
+    }
+    .productbigMain .table th, .productbigMain .table td {
+        font-size: 14px;
+    }
+    .productbigMain .table>:not(caption)>*>* {
+        padding: .3rem .3rem;
+    }
+    .productbigMain a.button-1.mt-5.click1 {
+        margin-top: 1rem!important;
+    }
+    .lets-talk .section-title {
+        font-size: 50px;
+    }
+    .contactSectionMain .section-title {
+        margin-bottom: 0px;
+    }
+}
+@media only screen and (min-width: 1300px) and (max-width: 1399px) {
+    .section-padding {
+        padding: 40px 0;
+    }
+	p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.5em;
+        color: #727272;
+        margin-bottom: 10px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: .2rem!important;
+    }
+    .productbigMain .table th, .productbigMain .table td {
+        font-size: 14px;
+    }
+    .productbigMain .table>:not(caption)>*>* {
+        padding: .3rem .3rem;
+    }
+    .productbigMain a.button-1.mt-5.click1 {
+        margin-top: 1rem!important;
+    }
+    .lets-talk .section-title {
+        font-size: 50px;
+    }
+    .contactSectionMain .section-title {
+        margin-bottom: 0px;
+    }
+    .list-text p {
+        font-size: 16px;
+    }
+    .productContentInnerItems .list-unstyled .list-icon {
+        width: 20px;
+        height: 20px;
+    }
+    .portfolio-home .item .con .title h3 {
+        font-size: 22px;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1299px) {
+	.section-padding {
+        padding: 40px 0;
+    }
+	p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.5em;
+        color: #727272;
+        margin-bottom: 10px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: .2rem!important;
+    }
+    .productbigMain .table th, .productbigMain .table td {
+        font-size: 14px;
+    }
+    .productbigMain .table>:not(caption)>*>* {
+        padding: .3rem .3rem;
+    }
+    .productbigMain a.button-1.mt-5.click1 {
+        margin-top: 1rem!important;
+    }
+    .lets-talk .section-title {
+        font-size: 50px;
+    }
+    .contactSectionMain .section-title {
+        margin-bottom: 0px;
+    }
+    .list-text p {
+        font-size: 16px;
+    }
+    .productContentInnerItems .list-unstyled .list-icon {
+        width: 20px;
+        height: 20px;
+    }
+    .portfolio-home .item .con .title h3 {
+        font-size: 22px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: 0px !important;
+    }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+	.section-padding {
+        padding: 40px 0;
+    }
+	p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.5em;
+        color: #727272;
+        margin-bottom: 10px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: .2rem!important;
+    }
+    .productbigMain .table th, .productbigMain .table td {
+        font-size: 14px;
+    }
+    .productbigMain .table>:not(caption)>*>* {
+        padding: .3rem .3rem;
+    }
+    .productbigMain a.button-1.mt-5.click1 {
+        margin-top: 1rem!important;
+    }
+    .lets-talk .section-title {
+        font-size: 50px;
+    }
+    .contactSectionMain .section-title {
+        margin-bottom: 0px;
+    }
+    .list-text p {
+        font-size: 16px;
+    }
+    .productContentInnerItems .list-unstyled .list-icon {
+        width: 20px;
+        height: 20px;
+    }
+    .portfolio-home .item .con .title h3 {
+        font-size: 22px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: 0px !important;
+    }
+    .section-title {
+        font-size: 28px;
+    }
+    .contactSectionMain .form-box h5 {
+        font-size: 28px;
+    }
+    .navbar {
+        height: 70px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1023px) {
+	.section-padding {
+        padding: 40px 0;
+    }
+	p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.5em;
+        color: #727272;
+        margin-bottom: 10px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: .2rem!important;
+    }
+    .productbigMain .table th, .productbigMain .table td {
+        font-size: 14px;
+    }
+    .productbigMain .table>:not(caption)>*>* {
+        padding: .3rem .3rem;
+    }
+    .productbigMain a.button-1.mt-5.click1 {
+        margin-top: 1rem!important;
+    }
+    .lets-talk .section-title {
+        font-size: 50px;
+    }
+    .contactSectionMain .section-title {
+        margin-bottom: 0px;
+    }
+    .list-text p {
+        font-size: 16px;
+    }
+    .productContentInnerItems .list-unstyled .list-icon {
+        width: 20px;
+        height: 20px;
+    }
+    .portfolio-home .item .con .title h3 {
+        font-size: 22px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: 0px !important;
+    }
+    .section-title {
+        font-size: 28px;
+    }
+    .contactSectionMain .form-box h5 {
+        font-size: 28px;
+    }	
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.section-padding {
+        padding: 40px 0;
+    }
+	p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.5em;
+        color: #727272;
+        margin-bottom: 10px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: .2rem!important;
+    }
+    .productbigMain .table th, .productbigMain .table td {
+        font-size: 14px;
+    }
+    .productbigMain .table>:not(caption)>*>* {
+        padding: .3rem .3rem;
+    }
+    .productbigMain a.button-1.mt-5.click1 {
+        margin-top: 1rem!important;
+    }
+    .lets-talk .section-title {
+        font-size: 38px;
+    }
+    .contactSectionMain .section-title {
+        margin-bottom: 0px;
+    }
+    .list-text p {
+        font-size: 16px;
+    }
+    .productContentInnerItems .list-unstyled .list-icon {
+        width: 20px;
+        height: 20px;
+    }
+    .portfolio-home .item .con .title h3 {
+        font-size: 22px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: 0px !important;
+    }
+    .section-title {
+        font-size: 28px;
+    }
+    .contactSectionMain .form-box h5 {
+        font-size: 28px;
+    }
+    .nav-scroll {
+        background: #FFF;
+        height: 80px;
+    }
+    .nav-scroll .logo-wrapper {
+        padding: 10px 15px;
+    }
+    .productbigMain::before {
+        display: none;
+    }
+    .productbigMain .content {
+        margin-top: 30px;
+    }
+    .productContentInnerItems {
+        padding: 10px 30px 30px 30px;
+    }
+    .productContentInnerItems .content .section-title {
+        margin-top: 20px;
+    }
+}
+@media only screen and (min-width: 375px) and (max-width: 767px) {
+	.section-padding {
+        padding: 40px 0;
+    }
+	p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.5em;
+        color: #727272;
+        margin-bottom: 10px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: .2rem!important;
+    }
+    .productbigMain .table th, .productbigMain .table td {
+        font-size: 14px;
+    }
+    .productbigMain .table>:not(caption)>*>* {
+        padding: .3rem .3rem;
+    }
+    .productbigMain a.button-1.mt-5.click1 {
+        margin-top: 1rem!important;
+    }
+    .lets-talk .section-title {
+        font-size: 38px;
+    }
+    .contactSectionMain .section-title {
+        margin-bottom: 0px;
+    }
+    .list-text p {
+        font-size: 16px;
+    }
+    .productContentInnerItems .list-unstyled .list-icon {
+        width: 20px;
+        height: 20px;
+    }
+    .portfolio-home .item .con .title h3 {
+        font-size: 14px;
+    }
+    .section-subtitle.mt-4 {
+        margin-top: 0px !important;
+    }
+    .section-title {
+        font-size: 28px;
+    }
+    .contactSectionMain .form-box h5 {
+        font-size: 28px;
+    }
+    .nav-scroll {
+        background: #FFF;
+        height: 80px;
+    }
+    .nav-scroll .logo-wrapper {
+        padding: 10px 15px;
+    }
+    .productbigMain::before {
+        display: none;
+    }
+    .productbigMain .content {
+        margin-top: 30px;
+    }
+    .productContentInnerItems {
+        padding: 10px 30px 30px 30px;
+    }
+    .productContentInnerItems .content .section-title {
+        margin-top: 20px;
+    }
+    .portfolio-home .item .con .title h6 {
+        display: none;
+    }
+    .portfolio-home .item .con .title {
+        bottom: -10px;
+        left: -13px;
+    }
+    .portfolio-home .item .con .icon, .about .item .icon, .services2 .item .icon {
+        width: 64px;
+        height: 64px;
+    }
+    .portfolio-home .item .con .icon .arrow, .about .item .icon .arrow,  .services2 .item .icon .arrow{
+        width: 40px;
+        height: 40px;
+    }
+    .about .item .icon .arrow span {
+        font-size: 14px;
+    }
+    .services2 .item .icon .icon-w {
+        font-size: 16px;
+    }
+    .list-text {
+        margin-left: 15px;
+        width: 84%;
+    }
+    .navbar {
+        height: 85px;
+        background: #eeeeee;
+    }
+    .logo-wrapper {
+        float: left;
+        padding: 5px 15px;
+    }
+    .navbar .navbar-toggler-icon, .navbar .icon-bar {
+        color: #000000;
+    }
+    .hero-section {
+        margin-top: 80px;
+    }
+}
