@@ -15,8 +15,27 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="productImg">
-                        <img src="assets/img/products/details/potato-grading-lines/potato-grading-lines.webp" alt="Potato Grading Lines" class="img-fluid">
+                        <div class="swiper productSwiper">
+                            <div class="swiper-wrapper">
+                                <?php
+                                $nb_elem_per_page = 100;
+                                $page = isset($_GET['page']) ? intval($_GET['page'] - 1) : 0;
+                                $data = glob("assets/img/products/details/potato-grading-lines/*.*");
+                                $number_of_pages = intval(count($data) / $nb_elem_per_page) + 1;
+                                foreach (array_slice($data, $page * $nb_elem_per_page, $nb_elem_per_page) as $p) {
+                                ?>
+                                    <div class="swiper-slide"> <img src="<?php echo $p; ?>" alt=""></div>
+                                <?php } ?>
+                            </div>
+                            <div class="swiper-pagination"></div>
+                            <div class="swiper-button-prev"></div>
+                            <div class="swiper-button-next"></div>
+                        </div>
+
                     </div>
+                    <!-- <div class="productImg">
+                        <img src="assets/img/products/details/potato-grading-lines/potato-grading-lines.webp" alt="Potato Grading Lines" class="img-fluid">
+                    </div> -->
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -64,25 +83,25 @@
                             <tbody>
                                 <tr>
                                     <th>MODEL</th>
-                                    <td>AV-1</td>
+                                    <!-- <td>AV-1</td>
                                     <td>AV-2</td>
-                                    <td>AV-3</td>
+                                    <td>AV-3</td> -->
                                     <td>AV-4</td>
                                     <td>AV-5</td>
                                 </tr>
                                 <tr>
                                     <th>STORAGE LINE</th>
-                                    <td>1-3</td>
+                                    <!-- <td>1-3</td>
                                     <td>4-8</td>
-                                    <td>9-12</td>
+                                    <td>9-12</td> -->
                                     <td>13-18</td>
                                     <td>19-25</td>
                                 </tr>
                                 <tr>
                                     <th>INDUSTRIAL LINE</th>
-                                    <td>-</td>
+                                    <!-- <td>-</td>
                                     <td>5-10</td>
-                                    <td>11-20</td>
+                                    <td>11-20</td> -->
                                     <td>21-30</td>
                                     <td>31-40</td>
                                 </tr>
