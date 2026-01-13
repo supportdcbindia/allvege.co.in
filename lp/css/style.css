@@ -6135,3 +6135,7 @@ select {
     background-repeat: no-repeat;
     z-index: 99;
 }
+
+img.capside {
+    width: 100px !important;
+}
