@@ -241,94 +241,94 @@
                     </tbody>
                 </table>
                 <table class="machine-table">
-                        <thead>
-                            <tr class="table-title">
-                                <th colspan="8">Estimated capacity (tons / hour)</th>
-                            </tr>
-                            <tr>
-                                <th></th>
-                                <th>R 80</th>
-                                <th>R 120</th>
-                                <th>R 150</th>
-                                <th>R 165</th>
-                                <th>R 180</th>
-                                <th>R 200</th>
-                                <th>R 260</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th>Carrots</th>
-                                <td>3 – 4</td>
-                                <td>8</td>
-                                <td>14</td>
-                                <td>–</td>
-                                <td>20</td>
-                                <td>25</td>
-                                <td>35</td>
-                            </tr>
-                            <tr>
-                                <th>Baby carrots</th>
-                                <td>3 – 4</td>
-                                <td>5 – 8</td>
-                                <td>10 – 12</td>
-                                <td>–</td>
-                                <td>14 – 16</td>
-                                <td>18 – 22</td>
-                                <td>25 – 30</td>
-                            </tr>
-                            <tr>
-                                <th>Red beet</th>
-                                <td>5 – 6</td>
-                                <td>8 – 10</td>
-                                <td>14 – 16</td>
-                                <td>–</td>
-                                <td>22 – 30</td>
-                                <td>35</td>
-                                <td>45</td>
-                            </tr>
-                            <tr>
-                                <th>Potatoes</th>
-                                <td>6 – 7</td>
-                                <td>8 – 10</td>
-                                <td>15 – 18</td>
-                                <td>–</td>
-                                <td>22 – 30</td>
-                                <td>35 – 40</td>
-                                <td>45 – 50</td>
-                            </tr>
-                            <tr>
-                                <th>Parsnips</th>
-                                <td>2 – 3</td>
-                                <td>3 – 4</td>
-                                <td>6 – 8</td>
-                                <td>–</td>
-                                <td>12</td>
-                                <td>18</td>
-                                <td>24</td>
-                            </tr>
-                            <tr>
-                                <th>Onions</th>
-                                <td>6 – 7</td>
-                                <td>8 – 10</td>
-                                <td>15 – 18</td>
-                                <td>–</td>
-                                <td>22 – 30</td>
-                                <td>35 – 40</td>
-                                <td>60</td>
-                            </tr>
-                            <tr>
-                                <th>Set onions</th>
-                                <td>3 – 5</td>
-                                <td>6 – 8</td>
-                                <td>10 – 12</td>
-                                <td>–</td>
-                                <td>14 – 16</td>
-                                <td>18 – 22</td>
-                                <td>25 – 30</td>
-                            </tr>
-                        </tbody>
-                    </table>
+                    <thead>
+                        <tr class="table-title">
+                            <th colspan="8">Estimated capacity (tons / hour)</th>
+                        </tr>
+                        <tr>
+                            <th></th>
+                            <th>R 80</th>
+                            <th>R 120</th>
+                            <th>R 150</th>
+                            <th>R 165</th>
+                            <th>R 180</th>
+                            <th>R 200</th>
+                            <th>R 260</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th>Carrots</th>
+                            <td>3 – 4</td>
+                            <td>8</td>
+                            <td>14</td>
+                            <td>–</td>
+                            <td>20</td>
+                            <td>25</td>
+                            <td>35</td>
+                        </tr>
+                        <tr>
+                            <th>Baby carrots</th>
+                            <td>3 – 4</td>
+                            <td>5 – 8</td>
+                            <td>10 – 12</td>
+                            <td>–</td>
+                            <td>14 – 16</td>
+                            <td>18 – 22</td>
+                            <td>25 – 30</td>
+                        </tr>
+                        <tr>
+                            <th>Red beet</th>
+                            <td>5 – 6</td>
+                            <td>8 – 10</td>
+                            <td>14 – 16</td>
+                            <td>–</td>
+                            <td>22 – 30</td>
+                            <td>35</td>
+                            <td>45</td>
+                        </tr>
+                        <tr>
+                            <th>Potatoes</th>
+                            <td>6 – 7</td>
+                            <td>8 – 10</td>
+                            <td>15 – 18</td>
+                            <td>–</td>
+                            <td>22 – 30</td>
+                            <td>35 – 40</td>
+                            <td>45 – 50</td>
+                        </tr>
+                        <tr>
+                            <th>Parsnips</th>
+                            <td>2 – 3</td>
+                            <td>3 – 4</td>
+                            <td>6 – 8</td>
+                            <td>–</td>
+                            <td>12</td>
+                            <td>18</td>
+                            <td>24</td>
+                        </tr>
+                        <tr>
+                            <th>Onions</th>
+                            <td>6 – 7</td>
+                            <td>8 – 10</td>
+                            <td>15 – 18</td>
+                            <td>–</td>
+                            <td>22 – 30</td>
+                            <td>35 – 40</td>
+                            <td>60</td>
+                        </tr>
+                        <tr>
+                            <th>Set onions</th>
+                            <td>3 – 5</td>
+                            <td>6 – 8</td>
+                            <td>10 – 12</td>
+                            <td>–</td>
+                            <td>14 – 16</td>
+                            <td>18 – 22</td>
+                            <td>25 – 30</td>
+                        </tr>
+                    </tbody>
+                </table>
 
             </div>
         </div>
@@ -341,357 +341,321 @@
                 <h2 class="sec-title mb-0">Options</h2>
             </div>
             <div class="content-responsive pt-5 pb-0">
-
                 <div class="material-section">
 
                     <h3 class="section-title">Material and treatment (frame)</h3>
+
                     <div class="material-row">
                         <div class="material-name">Painted mild steel</div>
                         <div class="material-desc">
                             Frame is made from painted mild steel. The bearings and drive/idle rollers are from mild
-                            steel
+                            steel.
                         </div>
                     </div>
+
                     <div class="material-row">
                         <div class="material-name">Stainless steel</div>
                         <div class="material-desc">
                             Frame is made from stainless steel AISI304. The bearings and drive/idle rollers are from
-                            mild steel
+                            mild steel.
                         </div>
                     </div>
+
                     <div class="material-row">
                         <div class="material-name">Zinc sprayed painted mild steel</div>
                         <div class="material-desc">
-                            Frame is made from sandblasted, zinc sprayed and painted mild steel.
-                            The bearings and drive/idle rollers are from mild steel
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Material and treatment (plating)</h3>
-                    <div class="material-row">
-                        <div class="material-name">Zinc plated steel</div>
-                        <div class="material-desc">
-                            The plating is made from zinc plated steel
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Stainless steel</div>
-                        <div class="material-desc">
-                            The plating is made from stainless steel AISI304
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Drum shape</h3>
-                    <div class="material-row">
-                        <div class="material-name">Round</div>
-                        <div class="material-desc">
-                            The drum is round shaped
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Octagon</div>
-                        <div class="material-desc">
-                            The drum is octagon shaped
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Drum</h3>
-                    <div class="material-row">
-                        <div class="material-name">U-profile gap 10 mm</div>
-                        <div class="material-desc">
-                            The drum is made from stainless steel AISI304, u-profile with gaps 10 mm
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Perforated plate round 12 mm</div>
-                        <div class="material-desc">
-                            The drum is made from stainless steel AISI304, perforated plate with rounds 12 mm
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Perforated plate slot 12 × 40 mm</div>
-                        <div class="material-desc">
-                            The drum is made from stainless steel AISI304, perforated plate with slots 12 × 40 mm
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Material (cleats)</h3>
-                    <div class="material-row">
-                        <div class="material-name">Stainless steel</div>
-                        <div class="material-desc">
-                            The cleats are made of stainless steel AISI304
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Cleats shape</h3>
-                    <div class="material-row">
-                        <div class="material-name">Straight</div>
-                        <div class="material-desc">
-                            The cleats are straight shaped
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Turned</div>
-                        <div class="material-desc">
-                            The cleats are shaped turned
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Material (product conveyor)</h3>
-                    <div class="material-row">
-                        <div class="material-name">Mild steel</div>
-                        <div class="material-desc">
-                            The product conveyor is made from mild steel, covered with rubber.
-                            The cleats height is 50 mm. The gap size is 5 mm
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Stainless steel</div>
-                        <div class="material-desc">
-                            The product conveyor is made from stainless steel AISI304, covered with rubber.
-                            The cleats height is 50 mm. The gap size is 5 mm
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">PVC</div>
-                        <div class="material-desc">
-                            The product conveyor is made from PVC. The cleats height is 60 mm
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Destoner*</h3>
-                    <div class="material-row">
-                        <div class="material-name">Drum</div>
-                        <div class="material-desc">
-                            While the produce floats, stones and dirt sink to a stone conveyor at the back of the
-                            machine
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Material and treatment (stone conveyor)*</h3>
-                    <div class="material-row">
-                        <div class="material-name">Mild steel</div>
-                        <div class="material-desc">
-                            The stone conveyor is made from mild steel.<br>
-                            The cleats height is 40 mm.<br>
-                            The gap size is 10 mm
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Stainless steel</div>
-                        <div class="material-desc">
-                            The stone conveyor is made from stainless steel AISI304.<br>
-                            The cleats height is 40 mm.<br>
-                            The gap size is 10 mm
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Jackscrew*</h3>
-                    <div class="material-row">
-                        <div class="material-name">Jackscrew</div>
-                        <div class="material-desc">
-                            Dirt sinks down and is taken out by a jackscrew at the bottom of the machine
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Leaf separator*</h3>
-                    <div class="material-row">
-                        <div class="material-name">Leaf separator</div>
-                        <div class="material-desc">
-                            At the end of the machine a leaf separator takes out all floating debris
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Electrical control</h3>
-                    <div class="material-row">
-                        <div class="material-name">No electric</div>
-                        <div class="material-desc">Motors and necessary sensors</div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Stand-alone</div>
-                        <div class="material-desc">
-                            Motors, necessary sensors and control panel.
-                            The length of the cable is 5, 10, 15 or 20 meter
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Central control in line</div>
-                        <div class="material-desc">Motors and necessary sensors</div>
-                    </div>
-
-                    <h3 class="section-title">Material and treatment (electrical panel)</h3>
-                    <div class="material-row">
-                        <div class="material-name">Painted mild steel</div>
-                        <div class="material-desc">
-                            The electrical panel is made from painted mild steel
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Stainless steel</div>
-                        <div class="material-desc">
-                            The electrical panel is made from stainless steel AISI304
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Water management</h3>
-                    <div class="material-row">
-                        <div class="material-name">Manual</div>
-                        <div class="material-desc">
-                            The valves can be operated manually. The water level must be regulated manually
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Automatic</div>
-                        <div class="material-desc">
-                            The valves are operated automatically. The water level is regulated automatically
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Cleaning*</h3>
-                    <div class="material-row">
-                        <div class="material-name">Spray tube product conveyor</div>
-                        <div class="material-desc">
-                            A spray tube is included to clean the produce
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Adjustment drum valve</h3>
-                    <div class="material-row">
-                        <div class="material-name">Manual</div>
-                        <div class="material-desc">
-                            The outlet valve can be adjusted manually
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Automatic</div>
-                        <div class="material-desc">
-                            The outlet valve can be adjusted automatically
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Material and treatment (subframe)*</h3>
-                    <div class="material-row">
-                        <div class="material-name">Painted mild steel</div>
-                        <div class="material-desc">
-                            It is made from painted mild steel
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Stainless steel</div>
-                        <div class="material-desc">
-                            It is made from stainless steel AISI304
-                        </div>
-                    </div>
-                    <div class="material-row">
-                        <div class="material-name">Galvanized steel</div>
-                        <div class="material-desc">
-                            It is made from galvanized steel
-                        </div>
-                    </div>
-
-                    <h3 class="section-title">Height of subframe*</h3>
-                    <div class="material-row">
-                        <div class="material-name">Height of subframe</div>
-                        <div class="material-desc">
-                            0 to 3 meter
+                            Frame is made from sandblasted, zinc sprayed and painted mild steel. The bearings and
+                            drive/idle rollers are from mild steel.
                         </div>
                     </div>
 
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
 
-<div class="tableData bgGrey">
-    <div class="container">
-        <div class="col-sm-12 col-md-12">
-            <div class="title-area mb-0">
-                <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
-            </div>
-            <div class="table-responsive pt-5 pb-0">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>
-                                Length of the drum –<br>
-                                Diameter of the drum<br>
-                                (in cm)
-                            </th>
-                            <th>U</th>
-                            <th>UK</th>
-                            <th>PD</th>
-                            <th>PDK</th>
-                            <th>PDV</th>
-                            <th>PDVL</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>170 – 80</td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                        </tr>
-                        <tr>
-                            <td>300 – 100</td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                        </tr>
-                        <tr>
-                            <td>300 – 120</td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                        </tr>
-                        <tr>
-                            <td>450 – 120</td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                        </tr>
-                        <tr>
-                            <td>500 – 130</td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                        </tr>
-                        <tr>
-                            <td>500 – 160</td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                        </tr>
-                        <tr>
-                            <td>600 – 190</td>
-                            <td><span class="check checked">✓</span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                            <td><span class="check"></span></td>
-                        </tr>
-                    </tbody>
-                </table>
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Material and treatment (plating)</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Zinc plated steel</div>
+                        <div class="material-desc">
+                            The plating is made from zinc plated steel.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Stainless steel</div>
+                        <div class="material-desc">
+                            The plating is made from stainless steel AISI304.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Belt</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Belt width</div>
+                        <div class="material-desc">
+                            The width of the belt is 40, 60, 80, 100 or 120.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Electrical control</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">No electric</div>
+                        <div class="material-desc">
+                            Motors and necessary sensors.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Stand-alone</div>
+                        <div class="material-desc">
+                            Motors, necessary sensors and control panel with or without HMI. The length of the cable is
+                            5, 10, 15 or 20 meter.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Central control in line</div>
+                        <div class="material-desc">
+                            Motors and necessary sensors.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Material and treatment (electrical panel)</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Painted mild steel</div>
+                        <div class="material-desc">
+                            The electrical panel is made from painted mild steel.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Stainless steel</div>
+                        <div class="material-desc">
+                            The electrical panel is made from stainless steel AISI304.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Material and treatment (subframe)</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Painted mild steel</div>
+                        <div class="material-desc">
+                            It is made of painted mild steel.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Stainless steel</div>
+                        <div class="material-desc">
+                            It is made of stainless steel AISI304.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Galvanized steel</div>
+                        <div class="material-desc">
+                            It is made of galvanized steel.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Height of subframe</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Height of subframe</div>
+                        <div class="material-desc">
+                            0 – 7 meters.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Adjustment grading size</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Manual</div>
+                        <div class="material-desc">
+                            The grading size can be adjusted manually by spindles. The position of the spindles is on
+                            the left or right side of the machine (produce perspective). The grading size is adjustable
+                            on every belt except the last, because the largest size is always sorted on the last belt.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Automatic</div>
+                        <div class="material-desc">
+                            The grading size can be adjusted automatically. The grading size is adjustable on every belt
+                            except the last, because the largest size is always sorted on the last belt.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Conveyor movement</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Fixed conveyors</div>
+                        <div class="material-desc">
+                            Conveyors can not be moved inside the radial grader.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Manual</div>
+                        <div class="material-desc">
+                            Conveyors can be moved manually inside the radial grader.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Automatic</div>
+                        <div class="material-desc">
+                            Conveyors can be moved automatically inside the radial grader.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Alignment</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Brush on top</div>
+                        <div class="material-desc">
+                            A brush is included to align product.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Anti-lift</div>
+                        <div class="material-desc">
+                            Anti-lift on every belt except the last. This option prevents that the rollers are lifted by
+                            produce, typically used for elongated products.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Brake flap</div>
+                        <div class="material-desc">
+                            There are 1, 2 or 3 brake flaps included to align the produce.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Cleaning</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Cleaning brush</div>
+                        <div class="material-desc">
+                            A brush is included to clean the rollers.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Roll cleaning mat</div>
+                        <div class="material-desc">
+                            A roll cleaning mat is mounted inside the machine to clean the rollers.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Spray tube</div>
+                        <div class="material-desc">
+                            A spray tube is included to either disinfect the product or keep the rollers slippery.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Chain greasing</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Manual</div>
+                        <div class="material-desc">
+                            The chain can be greased manually.
+                        </div>
+                    </div>
+
+                    <div class="material-row">
+                        <div class="material-name">Automatic</div>
+                        <div class="material-desc">
+                            The chain is greased automatically.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Oversize valve</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Oversize valve</div>
+                        <div class="material-desc">
+                            The machine shuts down when product gets stuck between the rollers.
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="material-section">
+
+                    <h3 class="section-title">Oversize sail</h3>
+
+                    <div class="material-row">
+                        <div class="material-name">Oversize sail</div>
+                        <div class="material-desc">
+                            A sail is included to catch the oversized product.
+                        </div>
+                    </div>
+
+                </div>
+
             </div>
         </div>
     </div>
