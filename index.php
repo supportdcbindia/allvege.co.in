@@ -19,8 +19,8 @@
 
         <!-- Slide 3 -->
         <div class="carousel-item">
-            <img src="assets/img/banners/allvege-b3.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
-            <img src="assets/img/banners/mob-banner/allvege-mob-b3.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/allvege-b4.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/mob-banner/allvege-mob-b4.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
         </div>
     </div>
 
