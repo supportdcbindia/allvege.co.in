@@ -32,7 +32,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="onion-grading-lines.php">
-                            <img src="assets/img/products/landing/potato-grading-lines.webp"
+                            <img src="assets/img/products/landing/onion-grading-lines.webp"
                                 alt="Onion Grading & Sorting Lines">
                         </a>
                     </div>
@@ -52,7 +52,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="receiving-hopper-10-tph.php">
-                            <img src="assets/img/products/landing/receiving-hopper.webp"
+                            <img src="assets/img/products/landing/r10-hopper.webp"
                                 alt="Receiving Hopper (10 TPH)">
                         </a>
                     </div>
@@ -89,11 +89,11 @@
                 </div>
             </div>
             
-            <!-- <div class="col-md-6 col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
                         <a href="elevator-conveyor-jumbo-bag-filler.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/landing/elevator-conveyor-jumbo-bag-filler.webp"
                                 alt="Elevator Conveyor Jumbo bag filler">
                         </a>
                     </div>
@@ -108,7 +108,7 @@
                         </a>
                     </div>
                 </div>
-            </div> -->
+            </div>
            
 
             <div class="col-md-6 col-lg-4">
@@ -316,7 +316,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="receiving-hopper-20-tph.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/landing/receiving-hopper.webp"
                                 alt="Receiving Hopper (20 TPH)">
                         </a>
                     </div>
@@ -336,7 +336,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="belt-grading-machine-with-conveyor-sizer.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/landing/belt grading.webp"
                                 alt="Belt Grading machine with Conveyor (Sizer)">
                         </a>
                     </div>
@@ -378,7 +378,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="pvc-belt-conveyor.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/landing/pvc-belt-conveyor.webp"
                                 alt="PVC belt Conveyor">
                         </a>
                     </div>
@@ -460,7 +460,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="bag-filler.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/landing/jumbo-bag-filler-1.webp"
                                 alt="Bag Filler">
                         </a>
                     </div>
@@ -502,7 +502,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="dryer.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/landing/dryer.webp"
                                 alt="Dryer">
                         </a>
                     </div>
@@ -523,7 +523,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="spiral-roller.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/landing/spiral-roller.webp"
                                 alt="Spiral Roller">
                         </a>
                     </div>
@@ -543,7 +543,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="washing-machine.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/landing/washing machine.webp"
                                 alt="Washing Machine">
                         </a>
                     </div>

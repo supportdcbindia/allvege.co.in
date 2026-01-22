@@ -11,13 +11,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-6">
-                    <!-- <div class="productImg">
+                    <div class="productImg">
                         <div class="swiper productSwiper">
                             <div class="swiper-wrapper">
                                 <?php
                                 $nb_elem_per_page = 100;
                                 $page = isset($_GET['page']) ? intval($_GET['page'] - 1) : 0;
-                                $data = glob("assets/img/products/details/elevators/*.*");
+                                $data = glob("assets/img/products/details/elevator-conveyor-jumbo-bag-filler/*.*");
                                 $number_of_pages = intval(count($data) / $nb_elem_per_page) + 1;
                                 foreach (array_slice($data, $page * $nb_elem_per_page, $nb_elem_per_page) as $p) {
                                 ?>
@@ -29,10 +29,10 @@
                             <div class="swiper-button-next"></div>
                         </div>
 
-                    </div> -->
-                    <div class="productImg">
-                        <img src="assets/img/image-available-soon.webp" alt="Washer">
                     </div>
+                    <!-- <div class="productImg">
+                        <img src="assets/img/image-available-soon.webp" alt="Washer">
+                    </div> -->
                 </div>
                 <div class="col-sm-12 col-md-6">
                     <div class="productContent">

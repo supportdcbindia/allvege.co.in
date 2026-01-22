@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="productImg">
-                        <img src="assets/img/products/details/potato-grading-lines/potato-grading-lines.webp" alt="Potato Grading Lines" class="img-fluid">
+                        <img src="assets/img/products/details/onion-grading-lines/onion-grading-lines.webp" alt="Potato Grading Lines" class="img-fluid">
                     </div>
                 </div>
 

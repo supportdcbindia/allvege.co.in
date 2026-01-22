@@ -17,7 +17,7 @@
                                 <?php
                                 $nb_elem_per_page = 100;
                                 $page = isset($_GET['page']) ? intval($_GET['page'] - 1) : 0;
-                                $data = glob("assets/img/products/details/receiving-hopper/*.*");
+                                $data = glob("assets/img/products/details/receiving-hopper-20/*.*");
                                 $number_of_pages = intval(count($data) / $nb_elem_per_page) + 1;
                                 foreach (array_slice($data, $page * $nb_elem_per_page, $nb_elem_per_page) as $p) {
                                 ?>
