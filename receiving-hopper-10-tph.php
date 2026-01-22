@@ -183,7 +183,7 @@
                         <tbody>
                             <!-- ARH 160 -->
                             <tr>
-                                <td rowspan="4" class="model">ARH 160</td>
+                                <td rowspan="4" class="model">AV ARH 160</td>
                                 <td>160</td>
                                 <td>400</td>
                                 <td>0</td>
@@ -214,7 +214,7 @@
 
                             <!-- ARH 200 -->
                             <tr>
-                                <td rowspan="3" class="model">ARH 200</td>
+                                <td rowspan="3" class="model">AV ARH 200</td>
                                 <td>200</td>
                                 <td>400</td>
                                 <td>0</td>
@@ -238,7 +238,7 @@
 
                             <!-- ARH 240 -->
                             <tr>
-                                <td rowspan="4" class="model">ARH 240</td>
+                                <td rowspan="4" class="model">AV ARH 240</td>
                                 <td>240</td>
                                 <td>600</td>
                                 <td>0</td>
@@ -269,7 +269,7 @@
 
                             <!-- ARH 300 -->
                             <tr>
-                                <td rowspan="3" class="model">ARH 300</td>
+                                <td rowspan="3" class="model">AV ARH 300</td>
                                 <td>300</td>
                                 <td>700</td>
                                 <td>0</td>
