@@ -6139,3 +6139,38 @@ select {
 img.capside {
     width: 100px !important;
 }
+
+.innerProductDetails, .tableData, .feacture {
+    padding: 50px 0px;
+}
+.column-count {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 3px;
+    align-items: center;
+}
+
+ul.column-count {
+    border: 2px solid red;
+}
+.feature-list li {
+    background-color: #fff;
+    position: relative;
+    padding: 12px 0px 12px 50px;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    color: #241d1d;
+    margin-left: 10px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
+}
+.al-step-icon {
+    display: inline-block;
+    position: absolute;
+    left: -10px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 99;
+}
