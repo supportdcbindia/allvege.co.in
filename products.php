@@ -68,6 +68,28 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="receiving-hopper-20-tph.php">
+                            <img src="assets/img/products/landing/receiving-hopper.webp"
+                                alt="Receiving Hopper (20 TPH)">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="receiving-hopper-20-tph.php">Receiving Hopper (20 TPH)</a>
+                            </h3>
+                        </div>
+                        <a href="receiving-hopper-20-tph.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
@@ -83,6 +105,27 @@
                             </h3>
                         </div>
                         <a href="shake-grader.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="bag-filler.php">
+                            <img src="assets/img/products/landing/jumbo-bag-filler-1.webp"
+                                alt="Big Bag Filler">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="bag-filler.php">Big Bag Filler</a>
+                            </h3>
+                        </div>
+                        <a href="bag-filler.php" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -109,7 +152,70 @@
                     </div>
                 </div>
             </div>
-           
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="pvc-belt-conveyor.php">
+                            <img src="assets/img/products/landing/pvc-belt-conveyor.webp"
+                                alt="PVC belt Conveyor">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="pvc-belt-conveyor.php">PVC belt Conveyor</a>
+                            </h3>
+                        </div>
+                        <a href="pvc-belt-conveyor.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="box-tipper.php">
+                            <img src="assets/img/products/landing/box-tipper.webp"
+                                alt="Box Tipper">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="box-tipper.php">Box Tipper</a>
+                            </h3>
+                        </div>
+                        <a href="box-tipper.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="brusher-10-rollers.php">
+                            <img src="assets/img/products/landing/brusher.webp"
+                                alt="Brusher (10 Rollers)">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="brusher-10-rollers.php">Brusher (10 Rollers)</a>
+                            </h3>
+                        </div>
+                        <a href="brusher-10-rollers.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
 
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
@@ -172,26 +278,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="box-tipper.php">
-                            <img src="assets/img/products/landing/box-tipper.webp"
-                                alt="Box Tipper">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="box-tipper.php">Box Tipper</a>
-                            </h3>
-                        </div>
-                        <a href="box-tipper.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
+
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
@@ -212,26 +299,7 @@
                     </div>
                 </div>
             </div>
-             <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="brusher-10-rollers.php">
-                            <img src="assets/img/products/landing/brusher.webp"
-                                alt="Brusher (10 Rollers)">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="brusher-10-rollers.php">Brusher (10 Rollers)</a>
-                            </h3>
-                        </div>
-                        <a href="brusher-10-rollers.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
+
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
@@ -315,26 +383,6 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="receiving-hopper-20-tph.php">
-                            <img src="assets/img/products/landing/receiving-hopper.webp"
-                                alt="Receiving Hopper (20 TPH)">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="receiving-hopper-20-tph.php">Receiving Hopper (20 TPH)</a>
-                            </h3>
-                        </div>
-                        <a href="receiving-hopper-20-tph.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
                         <a href="belt-grading-machine-with-conveyor-sizer.php">
                             <img src="assets/img/products/landing/belt grading.webp"
                                 alt="Screen Sizer">
@@ -377,27 +425,6 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="pvc-belt-conveyor.php">
-                            <img src="assets/img/products/landing/pvc-belt-conveyor.webp"
-                                alt="PVC belt Conveyor">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="pvc-belt-conveyor.php">PVC belt Conveyor</a>
-                            </h3>
-                        </div>
-                        <a href="pvc-belt-conveyor.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
                         <a href="rubber-belt-conveyor.php">
                             <img src="assets/img/image-available-soon.webp"
                                 alt="Rubber belt Conveyor">
@@ -419,7 +446,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="double-side-box-filler.php">
-                            <img src="assets/img/products/landing/image-available-soon.webp"
+                            <img src="assets/img/image-available-soon.webp"
                                 alt="Double side Box Filler">
                         </a>
                     </div>
@@ -456,27 +483,6 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="bag-filler.php">
-                            <img src="assets/img/products/landing/jumbo-bag-filler-1.webp"
-                                alt="Big Bag Filler">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="bag-filler.php">Big Bag Filler</a>
-                            </h3>
-                        </div>
-                        <a href="bag-filler.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            
 
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
