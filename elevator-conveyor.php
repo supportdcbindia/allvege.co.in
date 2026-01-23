@@ -144,7 +144,7 @@
     <div class="container">
         <div class="col-sm-12 col-md-12">
             <div class="title-area mb-0">
-                <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
+                <h2 class="sec-title mb-0"> Specifications</h2>
             </div>
             <div class="table-responsive pt-5 pb-0">
                 <table class="machine-table">
@@ -159,45 +159,45 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <th>ELK 40</th>
+                            <th>AV ELK 40</th>
                             <td>40</td>
                             <td rowspan="10">150 t/m 1500, steps of 25 cm</td>
                             <td rowspan="10">75 t/m 1000, steps of 25 cm</td>
                         </tr>
                         <tr>
-                            <th>ELK 60</th>
+                            <th>AV ELK 60</th>
                             <td>60</td>
                         </tr>
                         <tr>
-                            <th>ELK 80</th>
+                            <th>AV ELK 80</th>
                             <td>80</td>
                         </tr>
                         <tr>
-                            <th>ELK 90</th>
+                            <th>AV ELK 90</th>
                             <td>90</td>
                         </tr>
                         <tr>
-                            <th>ELK 100</th>
+                            <th>AV ELK 100</th>
                             <td>100</td>
                         </tr>
                         <tr>
-                            <th>ELK 120</th>
+                            <th>AV ELK 120</th>
                             <td>120</td>
                         </tr>
                         <tr>
-                            <th>ELK 140</th>
+                            <th>AV ELK 140</th>
                             <td>140</td>
                         </tr>
                         <tr>
-                            <th>ELK 150</th>
+                            <th>AV ELK 150</th>
                             <td>150</td>
                         </tr>
                         <tr>
-                            <th>ELK 170</th>
+                            <th>AV ELK 170</th>
                             <td>170</td>
                         </tr>
                         <tr>
-                            <th>ELK 230</th>
+                            <th>AV ELK 230</th>
                             <td>230</td>
                         </tr>
                     </tbody>

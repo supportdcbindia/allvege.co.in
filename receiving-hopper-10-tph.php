@@ -166,7 +166,7 @@
         <div class="container">
             <div class="col-sm-12 col-md-12">
                 <div class="title-area mb-0">
-                    <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
+                    <h2 class="sec-title mb-0"> Specifications</h2>
                 </div>
                 <div class="table-responsive pt-5 pb-0">
                     <table class="machine-table">

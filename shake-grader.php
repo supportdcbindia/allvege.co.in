@@ -143,10 +143,10 @@
                         <thead>
                             <tr>
                                 <th></th>
-                                <th>SG 60</th>
-                                <th>SG 80</th>
-                                <th>SG 120</th>
-                                <th>SG 160</th>
+                                <th>AV SG 60</th>
+                                <th>AV SG 80</th>
+                                <th>AV SG 120</th>
+                                <th>AV SG 160</th>
                             </tr>
                         </thead>
                         <tbody>

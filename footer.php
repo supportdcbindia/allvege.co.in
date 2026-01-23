@@ -131,28 +131,33 @@
     });
 </script>
 <script>
-    if (document.querySelector('.productSwiper')) {
-        const productSlider = new Swiper('.productSwiper', {
-            loop: false,
-            slidesPerView: 1,
-            spaceBetween: 15,
-            speed: 900,
-            autoplay: {
-                delay: 2000,
-                disableOnInteraction: false
-            },
-            navigation: {
-                prevEl: '.product-prev',
-            },
-            nextEl: '.product-next',
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true
-            },
-            watchOverflow: false // keep arrows visible even with 1 slide
-        });
-    }
+  if (document.querySelector('.productSwiper')) {
+    const productSlider = new Swiper('.productSwiper', {
+      loop: false,
+      slidesPerView: 1,
+      spaceBetween: 15,
+      speed: 900,
+
+      autoplay: {
+        delay: 2000,
+        disableOnInteraction: false
+      },
+
+      navigation: {
+        prevEl: '.swiper-button-prev',
+        nextEl: '.swiper-button-next',
+      },
+
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true
+      },
+
+      watchOverflow: false // keep arrows visible even with 1 slide
+    });
+  }
 </script>
+
 </body>
 
 </html>

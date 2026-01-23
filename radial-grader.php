@@ -162,7 +162,7 @@
     <div class="container">
         <div class="col-sm-12 col-md-12">
             <div class="title-area mb-0">
-                <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
+                <h2 class="sec-title mb-0"> Specifications</h2>
             </div>
             <div class="table-responsive pt-5 pb-0">
                 <table class="machine-table">
@@ -172,14 +172,14 @@
                         </tr>
                         <tr>
                             <th>Roll diameter</th>
-                            <th>Pitch 63 mm</th>
-                            <th>Pitch 76.2 mm</th>
-                            <th>Pitch 80 mm</th>
-                            <th>Pitch 90 mm</th>
-                            <th>Pitch 100 mm</th>
-                            <th>Pitch 110 mm</th>
-                            <th>Pitch 125 mm</th>
-                            <th>Pitch 150 mm</th>
+                            <th>AV Pitch 63 mm</th>
+                            <th>AV Pitch 76.2 mm</th>
+                            <th>AV Pitch 80 mm</th>
+                            <th>AV Pitch 90 mm</th>
+                            <th>AV Pitch 100 mm</th>
+                            <th>AV Pitch 110 mm</th>
+                            <th>AV Pitch 125 mm</th>
+                            <th>AV Pitch 150 mm</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -247,13 +247,13 @@
                         </tr>
                         <tr>
                             <th></th>
-                            <th>R 80</th>
-                            <th>R 120</th>
-                            <th>R 150</th>
-                            <th>R 165</th>
-                            <th>R 180</th>
-                            <th>R 200</th>
-                            <th>R 260</th>
+                            <th>AV R 80</th>
+                            <th>AV R 120</th>
+                            <th>AV R 150</th>
+                            <th>AV R 165</th>
+                            <th>AV R 180</th>
+                            <th>AV R 200</th>
+                            <th>AV R 260</th>
                         </tr>
                     </thead>
                     <tbody>

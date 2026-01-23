@@ -20,17 +20,31 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
     <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WBCHJ62C');</script>
-<!-- End Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WBCHJ62C');
+    </script>
+    <!-- End Google Tag Manager -->
 
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-</script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+    </script>
 </head>
 
 <?php
@@ -43,10 +57,10 @@ if ($_SERVER['REQUEST_URI'] == "/AllVege/index.php" || $_SERVER['REQUEST_URI'] =
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBCHJ62C"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<?php include('pop-model.php'); ?>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBCHJ62C"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <?php include('pop-model.php'); ?>
     <div class="as-menu-wrapper">
         <div class="as-menu-area text-center">
             <button class="as-menu-toggle"><i class="fal fa-times"></i></button>
@@ -65,10 +79,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li><a href="shake-grader.php">Shake Grader</a></li>
                             <!-- <li><a href="elevator-conveyor-jumbo-bag-filler.php">Elevator Conveyor Jumbo bag filler</a></li> -->
                             <li><a href="single-side-box-filler.php">Single side Box Filler</a></li>
-                            <li><a href="inspection-table-with-1-conveyor.php">Inspection table with 1 Conveyor</a></li>
+                            <li><a href="inspection-table-with-1-conveyor.php">Inspection Unit</a></li>
                             <li><a href="box-tipper.php">Box Tipper</a></li>
-                            <li><a href="belt-grading-machine-with-1-conveyor-sizer.php">Belt Grading machine with 1 Conveyor (Sizer)</a></li>
-                            <li><a href="weing-and-packaging-conveyor.php">Weing & Packaging Conveyor</a></li>
+                            <!-- <li><a href="belt-grading-machine-with-1-conveyor-sizer.php">Belt Grading machine with 1 Conveyor (Sizer)</a></li> -->
+                            <li><a href="weing-and-packaging-conveyor.php">Weighing Machine</a></li>
                             <li><a href="brusher-10-rollers.php">Brusher (10 Rollers)</a></li>
                             <li><a href="elevator-conveyor.php">Elevator Conveyor</a></li>
                             <li><a href="reverse-forward-conveyor.php">Reverse forward Conveyor</a></li>
@@ -76,19 +90,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li><a href="bag-packaging-conveyor.php">Bag Packaging Conveyor</a></li>
                             <li><a href="bag-conveying-conveyor.php">Bag conveying Conveyor</a></li>
                             <li><a href="receiving-hopper-20-tph.php">Receiving Hopper (20 TPH)</a></li>
-                            <li><a href="belt-grading-machine-with-conveyor-sizer.php">Belt Grading machine with Conveyor (Sizer)</a></li>
-                            <li><a href="ground-picker.php">Ground Picker</a></li>
+                            <li><a href="belt-grading-machine-with-conveyor-sizer.php">Screen Sizer</a></li>
+                            <li><a href="ground-picker.php">Pick Up Scooter</a></li>
                             <li><a href="pvc-belt-conveyor.php">PVC belt Conveyor</a></li>
                             <li><a href="rubber-belt-conveyor.php">Rubber belt Conveyor</a></li>
                             <li><a href="double-side-box-filler.php">Double side Box Filler</a></li>
-                            
-                            <li><a href="bag-filler.php">Bag Filler</a></li>
-                            
+
+                            <li><a href="bag-filler.php">Big Bag Filler</a></li>
+
                             <li><a href="radial-grader.php">Radial Grader</a></li>
                             <li><a href="dryer.php">Dryer</a></li>
-                            
+
                             <li><a href="spiral-roller.php">Spiral Roller</a></li>
                             <li><a href="washing-machine.php">Washing Machine</a></li>
+                            <li><a href="storage-hopper.php">Storage Hopper</a></li>
+                            <li><a href="storage-hopper-tipping.php">Storage Hopper Tipping</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
@@ -170,36 +186,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <li class="menu-item-has-children">
                                                     <a href="products.php">Products</a>
                                                     <ul class="sub-menu MeghaMenu">
-                                                         <li><a href="potato-grading-lines.php">Potato Grading & Sorting Lines</a></li>
-                            <li><a href="onion-grading-lines.php">Onion Grading & Sorting Lines</a></li>
-                            <li><a href="receiving-hopper-10-tph.php">Receiving Hopper (10 TPH)</a></li>
-                            <li><a href="shake-grader.php">Shake Grader</a></li>
-                            <!-- <li><a href="elevator-conveyor-jumbo-bag-filler.php">Elevator Conveyor Jumbo bag filler</a></li> -->
-                            <li><a href="single-side-box-filler.php">Single side Box Filler</a></li>
-                            <li><a href="inspection-table-with-1-conveyor.php">Inspection table with 1 Conveyor</a></li>
-                            <li><a href="box-tipper.php">Box Tipper</a></li>
-                            <li><a href="belt-grading-machine-with-1-conveyor-sizer.php">Belt Grading machine with 1 Conveyor (Sizer)</a></li>
-                            <li><a href="weing-and-packaging-conveyor.php">Weing & Packaging Conveyor</a></li>
-                            <li><a href="brusher-10-rollers.php">Brusher (10 Rollers)</a></li>
-                            <li><a href="elevator-conveyor.php">Elevator Conveyor</a></li>
-                            <li><a href="reverse-forward-conveyor.php">Reverse forward Conveyor</a></li>
-                            <li><a href="two-receiving-hopper-with-loadcell.php">Two receiving hopper with Loadcell</a></li>
-                            <li><a href="bag-packaging-conveyor.php">Bag Packaging Conveyor</a></li>
-                            <li><a href="bag-conveying-conveyor.php">Bag conveying Conveyor</a></li>
-                            <li><a href="receiving-hopper-20-tph.php">Receiving Hopper (20 TPH)</a></li>
-                            <li><a href="belt-grading-machine-with-conveyor-sizer.php">Belt Grading machine with Conveyor (Sizer)</a></li>
-                            <li><a href="ground-picker.php">Ground Picker</a></li>
-                            <li><a href="pvc-belt-conveyor.php">PVC belt Conveyor</a></li>
-                            <li><a href="rubber-belt-conveyor.php">Rubber belt Conveyor</a></li>
-                            <li><a href="double-side-box-filler.php">Double side Box Filler</a></li>
-                            
-                            <li><a href="bag-filler.php">Bag Filler</a></li>
-                            
-                            <li><a href="radial-grader.php">Radial Grader</a></li>
-                            <li><a href="dryer.php">Dryer</a></li>
-                            
-                            <li><a href="spiral-roller.php">Spiral Roller</a></li>
-                            <li><a href="washing-machine.php">Washing Machine</a></li>
+                                                        <li><a href="potato-grading-lines.php">Potato Grading & Sorting Lines</a></li>
+                                                        <li><a href="onion-grading-lines.php">Onion Grading & Sorting Lines</a></li>
+                                                        <li><a href="receiving-hopper-10-tph.php">Receiving Hopper (10 TPH)</a></li>
+                                                        <li><a href="shake-grader.php">Shake Grader</a></li>
+                                                        <!-- <li><a href="elevator-conveyor-jumbo-bag-filler.php">Elevator Conveyor Jumbo bag filler</a></li> -->
+                                                        <li><a href="single-side-box-filler.php">Single side Box Filler</a></li>
+                                                        <li><a href="inspection-table-with-1-conveyor.php">Inspection Unit</a></li>
+                                                        <li><a href="box-tipper.php">Box Tipper</a></li>
+                                                        <!-- <li><a href="belt-grading-machine-with-1-conveyor-sizer.php">Belt Grading machine with 1 Conveyor (Sizer)</a></li> -->
+                                                        <li><a href="weing-and-packaging-conveyor.php">Weighing Machine</a></li>
+                                                        <li><a href="brusher-10-rollers.php">Brusher (10 Rollers)</a></li>
+                                                        <li><a href="elevator-conveyor.php">Elevator Conveyor</a></li>
+                                                        <li><a href="reverse-forward-conveyor.php">Reverse forward Conveyor</a></li>
+                                                        <li><a href="two-receiving-hopper-with-loadcell.php">Two receiving hopper with Loadcell</a></li>
+                                                        <li><a href="bag-packaging-conveyor.php">Bag Packaging Conveyor</a></li>
+                                                        <li><a href="bag-conveying-conveyor.php">Bag conveying Conveyor</a></li>
+                                                        <li><a href="receiving-hopper-20-tph.php">Receiving Hopper (20 TPH)</a></li>
+                                                        <li><a href="belt-grading-machine-with-conveyor-sizer.php">Screen Sizer</a></li>
+                                                        <li><a href="ground-picker.php">Pick Up Scooter</a></li>
+                                                        <li><a href="pvc-belt-conveyor.php">PVC belt Conveyor</a></li>
+                                                        <li><a href="rubber-belt-conveyor.php">Rubber belt Conveyor</a></li>
+                                                        <li><a href="double-side-box-filler.php">Double side Box Filler</a></li>
+
+                                                        <li><a href="bag-filler.php">Big Bag Filler</a></li>
+
+                                                        <li><a href="radial-grader.php">Radial Grader</a></li>
+                                                        <li><a href="dryer.php">Dryer</a></li>
+
+                                                        <li><a href="spiral-roller.php">Spiral Roller</a></li>
+                                                        <li><a href="washing-machine.php">Washing Machine</a></li>
+                                                        <li><a href="storage-hopper.php">Storage Hopper</a></li>
+                                                        <li><a href="storage-hopper-tipping.php">Storage Hopper Tipping</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item-has-children">

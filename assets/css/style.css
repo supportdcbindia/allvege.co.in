@@ -16395,7 +16395,7 @@ section.sec-pad .container {
     left: -10px;
     top: 50%;
     transform: translateY(-50%);
-    z-index: 99;
+    z-index: 9;
 }
 .al-step-icon > span {
     height: 50px;
@@ -16603,7 +16603,7 @@ section.sec-pad .container {
 
 
 .tableData table th {
-    background: #d15e1f;
+    background: #555;
     color: #fff;
     font-size: 16px;
     border: 1px solid #2121213b;
@@ -16739,7 +16739,7 @@ section.sec-pad .container {
   }  
 }
 
-/* Mobile style — both arrows together at bottom-right corner */
+/* Mobile style â€” both arrows together at bottom-right corner */
 @media (max-width: 768px) {
   .carousel-control-prev,
   .carousel-control-next {
@@ -16892,7 +16892,7 @@ section.sec-pad .container {
     background: #eef2f7;
 }
 
-/* Your existing .alt rows – enhance them */
+/* Your existing .alt rows â€“ enhance them */
 .machine-table tr.alt {
     background: linear-gradient(90deg, #e0f2fe, #f0f9ff) !important;
 }
@@ -16916,11 +16916,11 @@ section.sec-pad .container {
 
 /* Rounded corners */
 .machine-table thead tr th:first-child {
-    border-top-left-radius: 12px;
+    /* border-top-left-radius: 12px; */
 }
 
 .machine-table thead tr th:last-child {
-    border-top-right-radius: 12px;
+    /* border-top-right-radius: 12px; */
 }
 
 /* Responsive */
@@ -16946,5 +16946,18 @@ section.sec-pad .container {
 
     .material-section h3.section-title {
       width: 100% !important;
+    }
+
+    .productSwiper .swiper-button-prev, .productSwiper .swiper-button-next {
+      height: 45px;
+      width: 45px;
+    }
+
+    .banner-breadcrumb .background-banner img {
+      min-height: 180px;
+    }
+
+    .innerProductDetails, .tableData, .feacture {
+        padding: 30px 0px;
     }
 }

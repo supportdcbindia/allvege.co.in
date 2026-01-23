@@ -47,7 +47,7 @@
                         </div>
                         <div class="desc">
                             <P>
-                                The Allround Roller Dryer is specially developed to remove surface moisture from fruits
+                                The AllVege Dryer is specially developed to remove surface moisture from fruits
                                 and vegetables after the washing process. It uses high-absorption felt rollers that
                                 gently take away excess water from the produce. These felt rollers are continuously
                                 squeezed by stainless steel pressure rollers, which release the collected water and keep
@@ -152,18 +152,18 @@
     <div class="container">
         <div class="col-sm-12 col-md-12">
             <div class="title-area mb-0">
-                <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
+                <h2 class="sec-title mb-0"> Specifications</h2>
             </div>
             <div class="table-responsive pt-5 pb-0">
                 <table class="machine-table">
                     <thead>
                         <tr class="table-title">
                             <th></th>
-                            <th>DR 90</th>
-                            <th>DR 110</th>
-                            <th>DR 130</th>
-                            <th>DR 150</th>
-                            <th>DR 180</th>
+                            <th>AV DR 90</th>
+                            <th>AV DR 110</th>
+                            <th>AV DR 130</th>
+                            <th>AV DR 150</th>
+                            <th>AV DR 180</th>
                         </tr>
                     </thead>
                     <tbody>

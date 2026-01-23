@@ -3,7 +3,7 @@
     <span class="background-banner"><img src="assets/img/innerPage/breadcums/product.webp" alt=""
             class="img-fluid"></span>
     <div class="banner-tit">
-        <h2><span>Ground Picker</span></h2>
+        <h2><span>Pick Up Scooter</span></h2>
     </div>
 </div>
 
@@ -13,7 +13,22 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="productImg">
-                        <img src="assets/img/image-available-soon.webp" alt="Washer">
+                        <div class="swiper productSwiper">
+                            <div class="swiper-wrapper">
+                                <?php
+                                $nb_elem_per_page = 100;
+                                $page = isset($_GET['page']) ? intval($_GET['page'] - 1) : 0;
+                                $data = glob("assets/img/products/details/ground-picker/*.*");
+                                $number_of_pages = intval(count($data) / $nb_elem_per_page) + 1;
+                                foreach (array_slice($data, $page * $nb_elem_per_page, $nb_elem_per_page) as $p) {
+                                ?>
+                                    <div class="swiper-slide"> <img src="<?php echo $p; ?>" alt=""></div>
+                                <?php } ?>
+                            </div>
+                            <div class="swiper-pagination"></div>
+                            <div class="swiper-button-prev"></div>
+                            <div class="swiper-button-next"></div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6">
@@ -24,7 +39,7 @@
                                     <span class="dots"></span>
                                 </span>
                             </span>
-                            <h2 class="sec-title mb-0">Ground Picker</h2>
+                            <h2 class="sec-title mb-0">Pick Up Scooter</h2>
                         </div>
                         <div class="desc">
                             <P>
@@ -105,14 +120,14 @@
     <div class="container">
         <div class="col-sm-12 col-md-12">
             <div class="title-area mb-0">
-                <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
+                <h2 class="sec-title mb-0"> Specifications</h2>
             </div>
             <div class="table-responsive pt-5 pb-0">
                 <table class="machine-table">
 
                     <thead>
                         <tr class="table-title">
-                            <th colspan="2">APS 250</th>
+                            <th colspan="2">AV APS 250</th>
                         </tr>
                     </thead>
                     <tbody>

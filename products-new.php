@@ -213,13 +213,13 @@
                     <div class="project-img">
                         <a href="bag-filler.php">
                             <img src="assets/img/products/details/bag-filler/bag-filler-2.webp"
-                                alt="Bag Filler">
+                                alt="Big Bag Filler">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="bag-filler.php">Bag Filler</a>
+                                <a href="bag-filler.php">Big Bag Filler</a>
                             </h3>
                         </div>
                         <a href="bag-filler.php" class="project-icon">

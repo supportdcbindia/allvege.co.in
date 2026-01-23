@@ -185,7 +185,6 @@
                             </span>
                         </div>
                         Drive system is easily accessible and positioned outside the water zone
-
                     </li>
 
 
@@ -198,7 +197,7 @@
     <div class="container">
         <div class="col-sm-12 col-md-12">
             <div class="title-area mb-0">
-                <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
+                <h2 class="sec-title mb-0"> Capacity Of Washing Machine</h2>
             </div>
             <div class="table-responsive pt-5 pb-0">
                 <table class="machine-table">
@@ -207,12 +206,12 @@
                     <thead>
                         <tr>
                             <th></th>
-                            <th>U</th>
-                            <th>UK</th>
-                            <th>PD</th>
-                            <th>PDK</th>
-                            <th>PDV</th>
-                            <th>PDVL</th>
+                            <th>AV U</th>
+                            <th>AV UK</th>
+                            <th>AV PD</th>
+                            <th>AV PDK</th>
+                            <th>AV PDV</th>
+                            <th>AV PDVL</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -532,7 +531,7 @@
     <div class="container">
         <div class="col-sm-12 col-md-12">
             <div class="title-area mb-0">
-                <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
+                <h2 class="sec-title mb-0"> Capacity Of Washing Machine</h2>
             </div>
             <div class="table-responsive pt-5 pb-0">
                 <table>
@@ -543,12 +542,12 @@
                                 Diameter of the drum<br>
                                 (in cm)
                             </th>
-                            <th>U</th>
-                            <th>UK</th>
-                            <th>PD</th>
-                            <th>PDK</th>
-                            <th>PDV</th>
-                            <th>PDVL</th>
+                            <th>AV U</th>
+                            <th>AV UK</th>
+                            <th>AV PD</th>
+                            <th>AV PDK</th>
+                            <th>AV PDV</th>
+                            <th>AV PDVL</th>
                         </tr>
                     </thead>
                     <tbody>

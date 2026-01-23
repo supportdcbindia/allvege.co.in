@@ -116,13 +116,13 @@
                     <div class="project-img">
                         <a href="inspection-table-with-1-conveyor.php">
                             <img src="assets/img/products/landing/inspection-table.webp"
-                                alt="Inspection table with 1 Conveyor">
+                                alt="Inspection Unit">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="inspection-table-with-1-conveyor.php">Inspection table with 1 Conveyor</a>
+                                <a href="inspection-table-with-1-conveyor.php">Inspection Unit</a>
                             </h3>
                         </div>
                         <a href="inspection-table-with-1-conveyor.php" class="project-icon">
@@ -132,7 +132,7 @@
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-4">
+            <!-- <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
                         <a href="belt-grading-machine-with-1-conveyor-sizer.php">
@@ -151,19 +151,19 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
                         <a href="weing-and-packaging-conveyor.php">
-                            <img src="assets/img/image-available-soon.webp"
-                                alt="Weing & Packaging Conveyor">
+                            <img src="assets/img/products/landing/weighing-machine.webp"
+                                alt="Weighing Machine">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="weing-and-packaging-conveyor.php">Weing & Packaging Conveyor</a>
+                                <a href="weing-and-packaging-conveyor.php">Weighing Machine</a>
                             </h3>
                         </div>
                         <a href="weing-and-packaging-conveyor.php" class="project-icon">
@@ -337,13 +337,13 @@
                     <div class="project-img">
                         <a href="belt-grading-machine-with-conveyor-sizer.php">
                             <img src="assets/img/products/landing/belt grading.webp"
-                                alt="Belt Grading machine with Conveyor (Sizer)">
+                                alt="Screen Sizer">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="belt-grading-machine-with-conveyor-sizer.php">Belt Grading machine with Conveyor (Sizer)</a>
+                                <a href="belt-grading-machine-with-conveyor-sizer.php">Screen Sizer</a>
                             </h3>
                         </div>
                         <a href="belt-grading-machine-with-conveyor-sizer.php" class="project-icon">
@@ -358,13 +358,13 @@
                     <div class="project-img">
                         <a href="ground-picker.php">
                             <img src="assets/img/products/landing/ground-picker.webp"
-                                alt="Ground Picker">
+                                alt="Pick Up Scooter">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="ground-picker.php">Ground Picker</a>
+                                <a href="ground-picker.php">Pick Up Scooter</a>
                             </h3>
                         </div>
                         <a href="ground-picker.php" class="project-icon">
@@ -461,13 +461,13 @@
                     <div class="project-img">
                         <a href="bag-filler.php">
                             <img src="assets/img/products/landing/jumbo-bag-filler-1.webp"
-                                alt="Bag Filler">
+                                alt="Big Bag Filler">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="bag-filler.php">Jumbo Bag Filler</a>
+                                <a href="bag-filler.php">Big Bag Filler</a>
                             </h3>
                         </div>
                         <a href="bag-filler.php" class="project-icon">
@@ -554,6 +554,66 @@
                             </h3>
                         </div>
                         <a href="washing-machine.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="polisher.php">
+                            <img src="assets/img/image-available-soon.webp"
+                                alt="Polisher">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="polisher.php">Polisher</a>
+                            </h3>
+                        </div>
+                        <a href="polisher.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="storage-hopper.php">
+                            <img src="assets/img/products/landing/storage-hopper.webp"
+                                alt="Storage Hopper">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="storage-hopper.php">Storage Hopper</a>
+                            </h3>
+                        </div>
+                        <a href="storage-hopper.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="storage-hopper-tipping.php">
+                            <img src="assets/img/products/landing/storage-hopper.webp"
+                                alt="Storage Hopper">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="storage-hopper-tipping.php">Storage Hopper Tipping</a>
+                            </h3>
+                        </div>
+                        <a href="storage-hopper-tipping.php" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>

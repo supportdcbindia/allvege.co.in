@@ -3,7 +3,8 @@
     <span class="background-banner"><img src="assets/img/innerPage/breadcums/product.webp" alt=""
             class="img-fluid"></span>
     <div class="banner-tit">
-        <h2><span>Belt Grading machine with Conveyor (Sizer)</span></h2>
+        <!-- <h2><span>Belt Grading machine with Conveyor (Sizer)</span></h2> -->
+        <h2><span>Screen Sizer</span></h2>
     </div>
 </div>
 
@@ -42,7 +43,7 @@
                                     <span class="dots"></span>
                                 </span>
                             </span>
-                            <h2 class="sec-title mb-0">Belt Grading machine with Conveyor (Sizer)</h2>
+                            <h2 class="sec-title mb-0">Screen Sizer</h2>
                         </div>
                         <div class="desc">
                             <P>The screen sizer is used to grade produce by hexagonal, square, or round size. It
@@ -133,16 +134,16 @@
     <div class="container">
         <div class="col-sm-12 col-md-12">
             <div class="title-area mb-0">
-                <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
+                <h2 class="sec-title mb-0"> Specifications</h2>
             </div>
             <div class="table-responsive pt-5 pb-0">
                 <table class="machine-table">
                     <thead>
                         <tr class="table-title">
                             <th></th>
-                            <th>SS 90</th>
-                            <th>SS 120</th>
-                            <th>SS 180</th>
+                            <th>AV SS 90</th>
+                            <th>AV SS 120</th>
+                            <th>AV SS 180</th>
                         </tr>
                     </thead>
                     <tbody>

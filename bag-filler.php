@@ -3,7 +3,7 @@
     <span class="background-banner"><img src="assets/img/innerPage/breadcums/product.webp" alt=""
             class="img-fluid"></span>
     <div class="banner-tit">
-        <h2><span> Bag Filler</span></h2>
+        <h2><span>Big Bag Filler</span></h2>
     </div>
 </div>
 
@@ -39,7 +39,7 @@
                                     <span class="dots"></span>
                                 </span>
                             </span>
-                            <h2 class="sec-title mb-0"> Bag Filler</h2>
+                            <h2 class="sec-title mb-0">Big Bag Filler</h2>
                         </div>
                         <div class="desc">
                             <P>The vertical big bag filler from Allvege Process Technologies is used to fill big bags or
@@ -169,7 +169,7 @@
     <div class="container">
         <div class="col-sm-12 col-md-12">
             <div class="title-area mb-0">
-                <h2 class="sec-title mb-0"> Capacity Of Receiving Hopper (10 TPH)</h2>
+                <h2 class="sec-title mb-0"> Specifications</h2>
             </div>
             <div class="table-responsive pt-5 pb-0">
                 <table class="machine-table">
@@ -177,8 +177,8 @@
                     <thead>
                         <tr>
                             <th>Model</th>
-                            <th>VBBF 275</th>
-                            <th>VBBF 350</th>
+                            <th>AV VBBF 275</th>
+                            <th>AV VBBF 350</th>
                         </tr>
                     </thead>
                     <tbody>
