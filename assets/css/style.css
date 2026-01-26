@@ -16861,7 +16861,7 @@ section.sec-pad .container {
 
 /* Header */
 .machine-table thead th {
-    background: linear-gradient(135deg, #d15e1f, #af3f01);
+    /* background: linear-gradient(135deg, #d15e1f, #af3f01); */
     color: #ffffff;
     padding: 14px 12px;
     font-size: 14px;

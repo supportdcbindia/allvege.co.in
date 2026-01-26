@@ -107,7 +107,7 @@ if ($_SERVER['REQUEST_URI'] == "/AllVege/index.php" || $_SERVER['REQUEST_URI'] =
                             <li><a href="spiral-roller.php">Spiral Roller</a></li>
                             <li><a href="washing-machine.php">Washing Machine</a></li>
                             <li><a href="storage-hopper.php">Storage Hopper</a></li>
-                            <li><a href="storage-hopper-tipping.php">Storage Hopper Tipping</a></li>
+                            <!-- <li><a href="storage-hopper-tipping.php">Storage Hopper Tipping</a></li> -->
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
@@ -223,7 +223,7 @@ if ($_SERVER['REQUEST_URI'] == "/AllVege/index.php" || $_SERVER['REQUEST_URI'] =
                                                         <li><a href="spiral-roller.php">Spiral Roller</a></li>
                                                         <li><a href="washing-machine.php">Washing Machine</a></li>
                                                         <li><a href="storage-hopper.php">Storage Hopper</a></li>
-                                                        <li><a href="storage-hopper-tipping.php">Storage Hopper Tipping</a></li>
+                                                        <!-- <li><a href="storage-hopper-tipping.php">Storage Hopper Tipping</a></li> -->
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item-has-children">

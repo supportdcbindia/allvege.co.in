@@ -12,7 +12,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="potato-grading-lines.php">
-                            <img src="assets/img/products/landing/potato-grading-lines.webp"
+                            <img src="assets/img/products/details/potato-grading-lines/potato-3.webp"
                                 alt="Potato Grading & Sorting Lines">
                         </a>
                     </div>
@@ -48,26 +48,6 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="receiving-hopper-10-tph.php">
-                            <img src="assets/img/products/landing/r10-hopper.webp"
-                                alt="Receiving Hopper (10 TPH)">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="receiving-hopper-10-tph.php">Receiving Hopper (10 TPH)</a>
-                            </h3>
-                        </div>
-                        <a href="receiving-hopper-10-tph.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
 
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
@@ -84,6 +64,27 @@
                             </h3>
                         </div>
                         <a href="receiving-hopper-20-tph.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="receiving-hopper-10-tph.php">
+                            <img src="assets/img/products/landing/r10-hopper.webp"
+                                alt="Receiving Hopper (10 TPH)">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="receiving-hopper-10-tph.php">Receiving Hopper (10 TPH)</a>
+                            </h3>
+                        </div>
+                        <a href="receiving-hopper-10-tph.php" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -282,27 +283,6 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="reverse-forward-conveyor.php">
-                            <img src="assets/img/image-available-soon.webp"
-                                alt="Reverse forward Conveyor">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="reverse-forward-conveyor.php">Reverse forward Conveyor</a>
-                            </h3>
-                        </div>
-                        <a href="reverse-forward-conveyor.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
                         <a href="elevator-conveyor.php">
                             <img src="assets/img/products/landing/elevators.webp"
                                 alt="Elevator Conveyor">
@@ -320,66 +300,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="two-receiving-hopper-with-loadcell.php">
-                            <img src="assets/img/image-available-soon.webp"
-                                alt="Two receiving hopper with Loadcell">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="two-receiving-hopper-with-loadcell.php">Two receiving hopper with Loadcell</a>
-                            </h3>
-                        </div>
-                        <a href="two-receiving-hopper-with-loadcell.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="bag-packaging-conveyor.php">
-                            <img src="assets/img/image-available-soon.webp"
-                                alt="Bag Packaging Conveyor">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="bag-packaging-conveyor.php">Bag Packaging Conveyor</a>
-                            </h3>
-                        </div>
-                        <a href="bag-packaging-conveyor.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="bag-conveying-conveyor.php">
-                            <img src="assets/img/image-available-soon.webp"
-                                alt="Bag conveying Conveyor">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="bag-conveying-conveyor.php">Bag conveying Conveyor</a>
-                            </h3>
-                        </div>
-                        <a href="bag-conveying-conveyor.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
+
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
@@ -425,47 +346,6 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="rubber-belt-conveyor.php">
-                            <img src="assets/img/image-available-soon.webp"
-                                alt="Rubber belt Conveyor">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="rubber-belt-conveyor.php">Rubber belt Conveyor</a>
-                            </h3>
-                        </div>
-                        <a href="rubber-belt-conveyor.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="double-side-box-filler.php">
-                            <img src="assets/img/image-available-soon.webp"
-                                alt="Double side Box Filler">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="double-side-box-filler.php">Double side Box Filler</a>
-                            </h3>
-                        </div>
-                        <a href="double-side-box-filler.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
                         <a href="single-side-box-filler.php">
                             <img src="assets/img/products/details/box-filler/box-filler-2.webp"
                                 alt="Single side Box Filler">
@@ -484,26 +364,6 @@
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="radial-grader.php">
-                            <img src="assets/img/image-available-soon.webp"
-                                alt="Radial Grader">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="radial-grader.php">Radial Grader</a>
-                            </h3>
-                        </div>
-                        <a href="radial-grader.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
@@ -565,26 +425,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="polisher.php">
-                            <img src="assets/img/image-available-soon.webp"
-                                alt="Polisher">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="polisher.php">Polisher</a>
-                            </h3>
-                        </div>
-                        <a href="polisher.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
+
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
@@ -605,7 +446,172 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="reverse-forward-conveyor.php">
+                            <img src="assets/img/image-available-soon.webp"
+                                alt="Reverse forward Conveyor">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="reverse-forward-conveyor.php">Reverse forward Conveyor</a>
+                            </h3>
+                        </div>
+                        <a href="reverse-forward-conveyor.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="two-receiving-hopper-with-loadcell.php">
+                            <img src="assets/img/image-available-soon.webp"
+                                alt="Two receiving hopper with Loadcell">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="two-receiving-hopper-with-loadcell.php">Two receiving hopper with Loadcell</a>
+                            </h3>
+                        </div>
+                        <a href="two-receiving-hopper-with-loadcell.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="bag-packaging-conveyor.php">
+                            <img src="assets/img/image-available-soon.webp"
+                                alt="Bag Packaging Conveyor">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="bag-packaging-conveyor.php">Bag Packaging Conveyor</a>
+                            </h3>
+                        </div>
+                        <a href="bag-packaging-conveyor.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="bag-conveying-conveyor.php">
+                            <img src="assets/img/image-available-soon.webp"
+                                alt="Bag conveying Conveyor">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="bag-conveying-conveyor.php">Bag conveying Conveyor</a>
+                            </h3>
+                        </div>
+                        <a href="bag-conveying-conveyor.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="rubber-belt-conveyor.php">
+                            <img src="assets/img/image-available-soon.webp"
+                                alt="Rubber belt Conveyor">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="rubber-belt-conveyor.php">Rubber belt Conveyor</a>
+                            </h3>
+                        </div>
+                        <a href="rubber-belt-conveyor.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="double-side-box-filler.php">
+                            <img src="assets/img/image-available-soon.webp"
+                                alt="Double side Box Filler">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="double-side-box-filler.php">Double side Box Filler</a>
+                            </h3>
+                        </div>
+                        <a href="double-side-box-filler.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="radial-grader.php">
+                            <img src="assets/img/image-available-soon.webp"
+                                alt="Radial Grader">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="radial-grader.php">Radial Grader</a>
+                            </h3>
+                        </div>
+                        <a href="radial-grader.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="polisher.php">
+                            <img src="assets/img/image-available-soon.webp"
+                                alt="Polisher">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="polisher.php">Polisher</a>
+                            </h3>
+                        </div>
+                        <a href="polisher.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
                         <a href="storage-hopper-tipping.php">
@@ -624,7 +630,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
