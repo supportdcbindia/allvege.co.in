@@ -6,21 +6,21 @@
         <!-- Slide 1 -->
         <div class="carousel-item active">
             <!-- Desktop Banner -->
-            <img src="assets/img/banners/allvege-b1.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/allvege-b2.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
             <!-- Mobile Banner -->
-            <img src="assets/img/banners/mob-banner/allvege-mob-b1.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/mob-banner/allvege-mob-b2.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
         </div>
 
         <!-- Slide 2 -->
         <div class="carousel-item">
-            <img src="assets/img/banners/allvege-b2.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
-            <img src="assets/img/banners/mob-banner/allvege-mob-b2.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/allvege-b3.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/mob-banner/allvege-mob-b3.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
         </div>
 
         <!-- Slide 3 -->
         <div class="carousel-item">
-            <img src="assets/img/banners/allvege-b4.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
-            <img src="assets/img/banners/mob-banner/allvege-mob-b4.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/allvege-b1.webp?ver=1.2" class="d-none d-md-block w-100" alt="Allvege Process Technologies">
+            <img src="assets/img/banners/mob-banner/allvege-mob-b1.webp?ver=1.2" class="d-block d-md-none w-100" alt="Allvege Process Technologies">
         </div>
     </div>
 
