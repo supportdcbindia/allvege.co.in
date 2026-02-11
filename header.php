@@ -207,14 +207,14 @@ if ($_SERVER['REQUEST_URI'] == "/AllVege/index.php" || $_SERVER['REQUEST_URI'] =
 
                                                         <!-- <li><a href="belt-grading-machine-with-1-conveyor-sizer.php">Belt Grading machine with 1 Conveyor (Sizer)</a></li> -->
 
-                                                        <li><a href="reverse-forward-conveyor.php">Reverse forward Conveyor</a></li>
-                                                        <li><a href="two-receiving-hopper-with-loadcell.php">Two receiving hopper with Loadcell</a></li>
-                                                        <li><a href="bag-packaging-conveyor.php">Bag Packaging Conveyor</a></li>
-                                                        <li><a href="bag-conveying-conveyor.php">Bag conveying Conveyor</a></li>
+                                                        <!-- <li><a href="reverse-forward-conveyor.php">Reverse forward Conveyor</a></li> -->
+                                                        <!-- <li><a href="two-receiving-hopper-with-loadcell.php">Two receiving hopper with Loadcell</a></li> -->
+                                                        <!-- <li><a href="bag-packaging-conveyor.php">Bag Packaging Conveyor</a></li> -->
+                                                        <!-- <li><a href="bag-conveying-conveyor.php">Bag conveying Conveyor</a></li> -->
 
                                                         <li><a href="belt-grading-machine-with-conveyor-sizer.php">Screen Sizer</a></li>
                                                         <li><a href="ground-picker.php">Pick Up Scooter</a></li>
-                                                        <li><a href="rubber-belt-conveyor.php">Rubber belt Conveyor</a></li>
+                                                        <!-- <li><a href="rubber-belt-conveyor.php">Rubber belt Conveyor</a></li> -->
                                                         <li><a href="double-side-box-filler.php">Double side Box Filler</a></li>
 
                                                         <li><a href="radial-grader.php">Radial Grader</a></li>

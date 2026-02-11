@@ -489,7 +489,7 @@
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-4">
+            <!-- <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
                         <a href="reverse-forward-conveyor.php">
@@ -590,7 +590,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
