@@ -31,18 +31,18 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="destoning-and-washing.php">
-                            <img src="assets/img/image-available-soon.webp"
+                        <a href="javascript:;">
+                            <img src="assets/img/products/details/french-fries-line/destoning-and-washing.webp"
                                 alt="Destoning And Washing">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="destoning-and-washing.php">Destoning And Washing</a>
+                                <a href="javascript:;">Destoning And Washing</a>
                             </h3>
                         </div>
-                        <a href="destoning-and-washing.php" class="project-icon">
+                        <a href="javascript:;" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -89,18 +89,18 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="double-cutting-system.php">
-                            <img src="assets/img/image-available-soon.webp"
+                        <a href="javascript:;">
+                            <img src="assets/img/products/details/french-fries-line/double-cutting-system.webp"
                                 alt="Double Cutting System">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="double-cutting-system.php">Double Cutting System</a>
+                                <a href="javascript:;">Double Cutting System</a>
                             </h3>
                         </div>
-                        <a href="double-cutting-system.php" class="project-icon">
+                        <a href="javascript:;" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -148,18 +148,18 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="belt-dryer.php">
-                            <img src="assets/img/image-available-soon.webp"
+                        <a href="javascript:;">
+                            <img src="assets/img/products/details/french-fries-line/belt-dryer.webp"
                                 alt="Belt Dryer">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="belt-dryer.php">Belt Dryer</a>
+                                <a href="javascript:;">Belt Dryer</a>
                             </h3>
                         </div>
-                        <a href="belt-dryer.php" class="project-icon">
+                        <a href="javascript:;" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -169,18 +169,18 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="fat-separator.php">
-                            <img src="assets/img/image-available-soon.webp"
+                        <a href="javascript:;">
+                            <img src="assets/img/products/details/french-fries-line/fat-separator.webp"
                                 alt="Fat Separator">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="fat-separator.php">Fat Separator</a>
+                                <a href="javascript:;">Fat Separator</a>
                             </h3>
                         </div>
-                        <a href="fat-separator.php" class="project-icon">
+                        <a href="javascript:;" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -190,18 +190,18 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="continuous-fryer.php">
-                            <img src="assets/img/image-available-soon.webp"
+                        <a href="javascript:;">
+                            <img src="assets/img/products/details/french-fries-line/continuous-fryer.webp"
                                 alt="Continuous Fryer">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="continuous-fryer.php">Continuous Fryer</a>
+                                <a href="javascript:;">Continuous Fryer</a>
                             </h3>
                         </div>
-                        <a href="continuous-fryer.php" class="project-icon">
+                        <a href="javascript:;" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
