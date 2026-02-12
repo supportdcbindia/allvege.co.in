@@ -191,8 +191,8 @@ if ($_SERVER['REQUEST_URI'] == "/AllVege/index.php" || $_SERVER['REQUEST_URI'] =
                                                     <ul class="sub-menu MeghaMenu">
                                                         <li><a href="potato-grading-lines.php">Potato Grading & Sorting Lines</a></li>
                                                         <li><a href="onion-grading-lines.php">Onion Grading & Sorting Lines</a></li>
-                                                        <li><a href="receiving-hopper-10-tph.php">Receiving Hopper (10 TPH)</a></li>
                                                         <li><a href="receiving-hopper-20-tph.php">Receiving Hopper (20 TPH)</a></li>
+                                                        <li><a href="radial-grader.php">Radial Grader</a></li>
                                                         <li><a href="shake-grader.php">Shake Grader</a></li>
                                                         <li><a href="bag-filler.php">Big Bag Filler</a></li>
                                                         <li><a href="elevator-conveyor-jumbo-bag-filler.php">Elevator Conveyor Jumbo bag filler</a></li>
@@ -217,7 +217,9 @@ if ($_SERVER['REQUEST_URI'] == "/AllVege/index.php" || $_SERVER['REQUEST_URI'] =
                                                         <!-- <li><a href="rubber-belt-conveyor.php">Rubber belt Conveyor</a></li> -->
                                                         <li><a href="double-side-box-filler.php">Double side Box Filler</a></li>
 
-                                                        <li><a href="radial-grader.php">Radial Grader</a></li>
+                                                        <li><a href="receiving-hopper-10-tph.php">Receiving Hopper (10 TPH)</a></li>
+
+                                                        
                                                         <li><a href="dryer.php">Dryer</a></li>
 
                                                         <li><a href="spiral-roller.php">Spiral Roller</a></li>
