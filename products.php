@@ -73,18 +73,18 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="receiving-hopper-10-tph.php">
-                            <img src="assets/img/products/landing/r10-hopper.webp"
-                                alt="Receiving Hopper (10 TPH)">
+                        <a href="radial-grader.php">
+                            <img src="assets/img/products/details/radial-grader/radial-grader.webp"
+                                alt="Radial Grader">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="receiving-hopper-10-tph.php">Receiving Hopper (10 TPH)</a>
+                                <a href="radial-grader.php">Radial Grader</a>
                             </h3>
                         </div>
-                        <a href="receiving-hopper-10-tph.php" class="project-icon">
+                        <a href="radial-grader.php" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -468,26 +468,7 @@
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-4">
-                <div class="project-block">
-                    <div class="project-img">
-                        <a href="radial-grader.php">
-                            <img src="assets/img/products/details/radial-grader/radial-grader.webp"
-                                alt="Radial Grader">
-                        </a>
-                    </div>
-                    <div class="project-content">
-                        <div class="media-body">
-                            <h3 class="project-title">
-                                <a href="radial-grader.php">Radial Grader</a>
-                            </h3>
-                        </div>
-                        <a href="radial-grader.php" class="project-icon">
-                            <i class="far fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
+            
 
             <!-- <div class="col-md-6 col-lg-4">
                 <div class="project-block">
@@ -591,6 +572,27 @@
                     </div>
                 </div>
             </div> -->
+
+            <div class="col-md-6 col-lg-4">
+                <div class="project-block">
+                    <div class="project-img">
+                        <a href="receiving-hopper-10-tph.php">
+                            <img src="assets/img/products/landing/r10-hopper.webp"
+                                alt="Receiving Hopper (10 TPH)">
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <div class="media-body">
+                            <h3 class="project-title">
+                                <a href="receiving-hopper-10-tph.php">Receiving Hopper (10 TPH)</a>
+                            </h3>
+                        </div>
+                        <a href="receiving-hopper-10-tph.php" class="project-icon">
+                            <i class="far fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
 
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
