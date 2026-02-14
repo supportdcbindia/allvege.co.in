@@ -2,7 +2,7 @@
 <div class="banner-breadcrumb">
     <span class="background-banner"><img src="assets/img/innerPage/breadcums/product.webp" alt="" class="img-fluid"></span>
     <div class="banner-tit">
-        <h2><span>Washer</span></h2>
+        <h2><span>Drum Dryer</span></h2>
     </div>
 </div>
 
@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="productImg">
-                        <img src="assets/img/processFlow/washer.webp" alt="Washer">
+                        <img src="assets/img/processFlow/potato-flakes-line/drum-dryer.webp" alt="Drum Dryer">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6">
@@ -23,13 +23,14 @@
                                     <span class="dots"></span>
                                 </span>
                             </span>
-                            <h2 class="sec-title mb-0">Washer for Potatoes and Vegetables</h2>
+                            <h2 class="sec-title mb-0">Drum Dryer for Food Processing</h2>
                         </div>
                         <div class="desc">
-                            <p>The goods are washed thoroughly inside a rotating wet wash drum. The
-                                water level is controlled automatically be a water level control system. Mud
-                                which settles out is collected and drained. The goods are moved to the
-                                downstream machine by the ejectors in the drum.</p>
+                            <p>The Drum Dryer is designed for efficient drying of purees, pastes, and slurry-based food products. The product is applied as a thin film onto the surface of a rotating heated drum, where moisture rapidly evaporates.</p>
+
+                            <p>As the drum rotates, the dried product is continuously scraped off by a knife system, producing uniform flakes or powder. The process ensures controlled drying conditions, preserving product quality, color, and nutritional value.</p>
+
+                            <p>Manufactured from high-grade stainless steel, the Drum Dryer ensures hygienic operation, energy efficiency, and reliable performance for continuous industrial production.</p>
                         </div>
                     </div>
                 </div>

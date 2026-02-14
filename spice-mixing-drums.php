@@ -2,7 +2,7 @@
 <div class="banner-breadcrumb">
     <span class="background-banner"><img src="assets/img/innerPage/breadcums/product.webp" alt="" class="img-fluid"></span>
     <div class="banner-tit">
-        <h2><span>Washer</span></h2>
+        <h2><span>Spice Mixing Drums</span></h2>
     </div>
 </div>
 
@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="productImg">
-                        <img src="assets/img/processFlow/washer.webp" alt="Washer">
+                        <img src="assets/img/processFlow/potato-chips/spice-mixing-drum.webp" alt="Spice Mixing Drums">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6">
@@ -23,13 +23,14 @@
                                     <span class="dots"></span>
                                 </span>
                             </span>
-                            <h2 class="sec-title mb-0">Washer for Potatoes and Vegetables</h2>
+                            <h2 class="sec-title mb-0">Spice Mixing Drums</h2>
                         </div>
                         <div class="desc">
-                            <p>The goods are washed thoroughly inside a rotating wet wash drum. The
-                                water level is controlled automatically be a water level control system. Mud
-                                which settles out is collected and drained. The goods are moved to the
-                                downstream machine by the ejectors in the drum.</p>
+                            <p>The Spice Mixing Drums are designed for uniform coating and seasoning of snacks, fried products, and processed foods. The rotating drum ensures gentle tumbling of the product, allowing even distribution of spices and flavoring agents.</p>
+
+                            <p>Equipped with controlled rotation speed and optional powder dosing systems, the drum provides consistent seasoning results while minimizing breakage and product loss. The design ensures optimal mixing efficiency for continuous production lines.</p>
+
+                            <p>Manufactured from food-grade stainless steel, the Spice Mixing Drum ensures hygienic operation, easy cleaning, and reliable performance in industrial food processing applications.</p>
                         </div>
                     </div>
                 </div>

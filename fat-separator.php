@@ -2,7 +2,7 @@
 <div class="banner-breadcrumb">
     <span class="background-banner"><img src="assets/img/innerPage/breadcums/product.webp" alt="" class="img-fluid"></span>
     <div class="banner-tit">
-        <h2><span>Washer</span></h2>
+        <h2><span>Fat Separator</span></h2>
     </div>
 </div>
 
@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="productImg">
-                        <img src="assets/img/processFlow/washer.webp" alt="Washer">
+                        <img src="assets/img/processFlow/potato-chips/fat-saprator.webp" alt="Fat Separator">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6">
@@ -23,13 +23,14 @@
                                     <span class="dots"></span>
                                 </span>
                             </span>
-                            <h2 class="sec-title mb-0">Washer for Potatoes and Vegetables</h2>
+                            <h2 class="sec-title mb-0">Fat Separator</h2>
                         </div>
                         <div class="desc">
-                            <p>The goods are washed thoroughly inside a rotating wet wash drum. The
-                                water level is controlled automatically be a water level control system. Mud
-                                which settles out is collected and drained. The goods are moved to the
-                                downstream machine by the ejectors in the drum.</p>
+                            <p>The Fat Separator is designed to efficiently remove excess oil and fat from fried or processed food products. By separating residual surface oil, it helps improve product quality, texture, and shelf life.</p>
+
+                            <p>The system operates through controlled drainage and separation mechanisms, allowing oil to be collected and recirculated where required. This reduces oil wastage and enhances overall production efficiency.</p>
+
+                            <p>Manufactured from food-grade stainless steel, the Fat Separator ensures hygienic operation, easy cleaning, and reliable performance in continuous processing lines.</p>
                         </div>
                     </div>
                 </div>

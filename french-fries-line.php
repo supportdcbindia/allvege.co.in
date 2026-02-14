@@ -12,8 +12,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="steam-peeler.php">
-                            <img src="assets/img/processFlow/steam-peeler.webp"
-                                alt="Steam Peeler">
+                            <img src="assets/img/processFlow/steam-peeler.webp" alt="Steam Peeler">
                         </a>
                     </div>
                     <div class="project-content">
@@ -31,18 +30,17 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="javascript:;">
-                            <img src="assets/img/products/details/french-fries-line/destoning-and-washing.webp"
-                                alt="Destoning And Washing">
+                        <a href="destoning-and-washing.php">
+                            <img src="assets/img/products/details/french-fries-line/destoning-and-washing.webp" alt="Destoning And Washing">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="javascript:;">Destoning And Washing</a>
+                                <a href="destoning-and-washing.php">Destoning And Washing</a>
                             </h3>
                         </div>
-                        <a href="javascript:;" class="project-icon">
+                        <a href="destoning-and-washing.php" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -71,8 +69,8 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="roll-inspection-table.php">
-                            <img src="assets/img/processFlow/roll-inspection-table.webp"
-                                alt="Roll Inspection Table"></a>
+                            <img src="assets/img/processFlow/roll-inspection-table.webp" alt="Roll Inspection Table">
+                        </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
@@ -90,8 +88,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="javascript:;">
-                            <img src="assets/img/products/details/french-fries-line/double-cutting-system.webp"
-                                alt="Double Cutting System">
+                            <img src="assets/img/products/details/french-fries-line/double-cutting-system.webp" alt="Double Cutting System">
                         </a>
                     </div>
                     <div class="project-content">
@@ -148,7 +145,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="javascript:;">
+                        <a href="belt-dryer.php">
                             <img src="assets/img/products/details/french-fries-line/belt-dryer.webp"
                                 alt="Belt Dryer">
                         </a>
@@ -156,10 +153,10 @@
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="javascript:;">Belt Dryer</a>
+                                <a href="belt-dryer.php">Belt Dryer</a>
                             </h3>
                         </div>
-                        <a href="javascript:;" class="project-icon">
+                        <a href="belt-dryer.php" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -169,7 +166,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="javascript:;">
+                        <a href="./fat-separator-french-fries.php">
                             <img src="assets/img/products/details/french-fries-line/fat-separator.webp"
                                 alt="Fat Separator">
                         </a>
@@ -177,10 +174,10 @@
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="javascript:;">Fat Separator</a>
+                                <a href="./fat-separator-french-fries.php">Fat Separator</a>
                             </h3>
                         </div>
-                        <a href="javascript:;" class="project-icon">
+                        <a href="./fat-separator-french-fries.php" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>
@@ -190,7 +187,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
-                        <a href="javascript:;">
+                        <a href="./continuous-fryer.php">
                             <img src="assets/img/products/details/french-fries-line/continuous-fryer.webp"
                                 alt="Continuous Fryer">
                         </a>
@@ -198,10 +195,10 @@
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="javascript:;">Continuous Fryer</a>
+                                <a href="./continuous-fryer.php">Continuous Fryer</a>
                             </h3>
                         </div>
-                        <a href="javascript:;" class="project-icon">
+                        <a href="./continuous-fryer.php" class="project-icon">
                             <i class="far fa-arrow-right"></i>
                         </a>
                     </div>

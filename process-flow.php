@@ -12,7 +12,7 @@
             <div class="ProcessFlowItem">
                 <div class="ProcessFlowImage">
                     <!-- <img src="./assets/img/innerPage/process-flow/potato-flakes-line.webp?ver=1.2" alt=""> -->
-                    <img src="./assets/img/image-available-soon.webp" alt="">
+                    <img src="./assets/img/processFlow/potato-flakes-line.webp" alt="">
                 </div>
                 <div class="ProcessFlowContent">
                     <span>Potato Flakes Line</span>
@@ -22,17 +22,17 @@
             <div class="ProcessFlowItem">
                 <div class="ProcessFlowImage">
                     <!-- <img src="./assets/img/innerPage/process-flow/process-flow-layout.webp?ver=1.2" alt=""> -->
-                    <img src="./assets/img/image-available-soon.webp" alt="">
+                    <img src="./assets/img/processFlow/potato-chips.webp" alt="">
                 </div>
                 <div class="ProcessFlowContent">
                     <span>Pоtаtо Сhips</span>
-                    <a href="pоtаtо-сhips.php" title="Pоtаtо Сhips">View More</a>
+                    <a href="pоtаtо-сhips.php" title="Pоtаtо Chips">View More</a>
                 </div>
             </div>
             <div class="ProcessFlowItem">
                 <div class="ProcessFlowImage">
                     <!-- <img src="./assets/img/innerPage/process-flow/process-flow-layout-french-fries-line.webp?ver=1.2" alt=""> -->
-                     <img src="./assets/img/image-available-soon.webp" alt="">
+                     <img src="./assets/img/processFlow/process-flow-layout-french-fries-line.webp" alt="">
                 </div>
                 <div class="ProcessFlowContent">
                     <span>French Fries Line</span>
@@ -42,7 +42,7 @@
             <div class="ProcessFlowItem">
                 <div class="ProcessFlowImage">
                     <!-- <img src="./assets/img/innerPage/process-flow/onion-processing-line.webp?ver=1.2" alt=""> -->
-                     <img src="./assets/img/image-available-soon.webp" alt="">
+                     <img src="./assets/img/processFlow/onion-processing-line.webp" alt="">
                 </div>
                 <div class="ProcessFlowContent">
                     <span>Onion Processing Line</span>

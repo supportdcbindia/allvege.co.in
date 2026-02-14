@@ -2,7 +2,7 @@
 <div class="banner-breadcrumb">
     <span class="background-banner"><img src="assets/img/innerPage/breadcums/product.webp" alt="" class="img-fluid"></span>
     <div class="banner-tit">
-        <h2><span>Washer</span></h2>
+        <h2><span>Oil Filtering System</span></h2>
     </div>
 </div>
 
@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="productImg">
-                        <img src="assets/img/processFlow/washer.webp" alt="Washer">
+                        <img src="assets/img/processFlow/potato-chips/oil-filtering-system.webp" alt="Oil Filtering System">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6">
@@ -23,13 +23,14 @@
                                     <span class="dots"></span>
                                 </span>
                             </span>
-                            <h2 class="sec-title mb-0">Washer for Potatoes and Vegetables</h2>
+                            <h2 class="sec-title mb-0">Oil Filtering System</h2>
                         </div>
                         <div class="desc">
-                            <p>The goods are washed thoroughly inside a rotating wet wash drum. The
-                                water level is controlled automatically be a water level control system. Mud
-                                which settles out is collected and drained. The goods are moved to the
-                                downstream machine by the ejectors in the drum.</p>
+                            <p>The Oil Filtering System is designed to maintain oil quality and extend oil life in continuous frying operations. It efficiently removes food particles, crumbs, and impurities generated during the frying process.</p>
+
+                            <p>The system operates through a multi-stage filtration mechanism, ensuring clean oil circulation back into the fryer. This improves product quality, reduces oil consumption, and minimizes downtime for oil replacement.</p>
+
+                            <p>Constructed with food-grade stainless steel and equipped with high-performance filtration units, the Oil Filtering System ensures hygienic operation, energy efficiency, and reliable performance in industrial food processing plants.</p>
                         </div>
                     </div>
                 </div>

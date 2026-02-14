@@ -12,7 +12,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="cutting-machine.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/processFlow/potato-chips/cutting-machine.webp"
                                 alt="Cutting machine">
                         </a>
                     </div>
@@ -32,7 +32,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="destoning-and-washing-machine.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/processFlow/potato-chips/destoning-and-washing-machine.webp"
                                 alt="Destoning and washing machine">
                         </a>
                     </div>
@@ -52,7 +52,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="carborundum-type-peeling-machine.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/processFlow/potato-chips/carborundum-type-peeling-machine.webp"
                                 alt="Carborundum-Type Peeling Machine">
                         </a>
                     </div>
@@ -93,7 +93,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="drum-blancher.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/processFlow/potato-chips/drum-blancher.webp"
                                 alt="Drum Blancher">
                         </a>
                     </div>
@@ -113,7 +113,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="continuous-frver.php">
-                            <img src="assets/img/image-available-soon.webp" alt="Continuous Frver">
+                            <img src="assets/img/processFlow/potato-chips/continuous-fryer.webp" alt="Continuous Frver">
                         </a>
                     </div>
                     <div class="project-content">
@@ -132,7 +132,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="oil-filtering-system.php">
-                            <img src="assets/img/image-available-soon.webp" alt="Oil-Filtering System">
+                            <img src="assets/img/processFlow/potato-chips/oil-filtering-system.webp" alt="Oil-Filtering System">
                         </a>
                     </div>
                     <div class="project-content">
@@ -151,7 +151,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="fat-separator.php">
-                            <img src="assets/img/image-available-soon.webp" alt="Fat Separator">
+                            <img src="assets/img/processFlow/potato-chips/fat-saprator.webp" alt="Fat Separator">
                         </a>
                     </div>
                     <div class="project-content">
@@ -191,7 +191,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="spice-mixing-drums.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/processFlow/potato-chips/spice-mixing-drum.webp"
                                 alt="Spice Mixing Drums"></a>
                     </div>
                     <div class="project-content">
@@ -210,7 +210,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="bunker.php">
-                            <img src="assets/img/image-available-soon.webp" alt="Bunker">
+                            <img src="assets/img/processFlow/potato-chips/bunker.webp" alt="Bunker">
                         </a>
                     </div>
                     <div class="project-content">

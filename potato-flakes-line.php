@@ -129,7 +129,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="cooling-screw-conveyor.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/processFlow/potato-flakes-line/cooling-screw-conveyor.webp"
                                 alt="Cooling Screw Conveyor"></a>
                     </div>
                     <div class="project-content">
@@ -169,7 +169,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="puree-machine.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/processFlow/potato-flakes-line/puree-machine.webp"
                                 alt="Puree Machine"></a>
                     </div>
                     <div class="project-content">
@@ -189,7 +189,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="drum-dryer.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/processFlow/potato-flakes-line/drum-dryer.webp"
                                 alt="Drum Dryer"></a>
                     </div>
                     <div class="project-content">

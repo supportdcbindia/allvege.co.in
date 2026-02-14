@@ -2,7 +2,7 @@
 <div class="banner-breadcrumb">
     <span class="background-banner"><img src="assets/img/innerPage/breadcums/product.webp" alt="" class="img-fluid"></span>
     <div class="banner-tit">
-        <h2><span>Washer</span></h2>
+        <h2><span>Bunker</span></h2>
     </div>
 </div>
 
@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="productImg">
-                        <img src="assets/img/processFlow/washer.webp" alt="Washer">
+                        <img src="assets/img/processFlow/potato-chips/bunker.webp" alt="Bunker">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6">
@@ -23,13 +23,14 @@
                                     <span class="dots"></span>
                                 </span>
                             </span>
-                            <h2 class="sec-title mb-0">Washer for Potatoes and Vegetables</h2>
+                            <h2 class="sec-title mb-0">Bunker</h2>
                         </div>
                         <div class="desc">
-                            <p>The goods are washed thoroughly inside a rotating wet wash drum. The
-                                water level is controlled automatically be a water level control system. Mud
-                                which settles out is collected and drained. The goods are moved to the
-                                downstream machine by the ejectors in the drum.</p>
+                            <p>The Bunker is designed for temporary storage and controlled feeding of raw materials or processed products within a food processing line. It ensures smooth and continuous material flow to downstream equipment.</p>
+
+                            <p>Built with a sturdy structure and optimized discharge system, the bunker prevents material blockage and ensures uniform feeding. It can be integrated with conveyors, elevators, or dosing systems as per production requirements.</p>
+
+                            <p>Constructed from food-grade stainless steel, the Bunker ensures hygienic storage, easy cleaning, and reliable performance in industrial processing environments.</p>
                         </div>
                     </div>
                 </div>
