@@ -78,16 +78,16 @@ if ($response->result) {
 } else {
   try {
     if (
-      isset($name) && trim($name) !== '' && 
-      isset($company_name) && trim($company_name) !== '' && 
-      isset($email) && trim($email) !== '' && 
-      isset($message) && trim($message) !== '' && 
-      isset($phone) && trim($phone) !== '' && 
+      isset($name) && trim($name) !== '' &&
+      isset($company_name) && trim($company_name) !== '' &&
+      isset($email) && trim($email) !== '' &&
+      isset($message) && trim($message) !== '' &&
+      isset($phone) && trim($phone) !== '' &&
       isset($city_country) && trim($city_country) !== ''
     ) {
       if (
-        $_SESSION["code"] == $_POST['captcha'] && 
-        $_POST['captcha'] != "!UNKNOWN_TYPE!" && 
+        $_SESSION["code"] == $_POST['captcha'] &&
+        $_POST['captcha'] != "!UNKNOWN_TYPE!" &&
         $_POST['captcha'] != "" && $_SESSION["code"] != ""
       ) {
         if (!preg_match("/^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/", $email)) {
@@ -152,7 +152,7 @@ if ($response->result) {
                       </tr>
                       
                       <tr>
-                        <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">'.$city_country_title.':</td>
+                        <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">' . $city_country_title . ':</td>
                         <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $city_country . '</b></td>
                       </tr>
                       
@@ -185,7 +185,7 @@ if ($response->result) {
                 // if (!empty($cc_email)) {
                 //   $mail->AddCC($cc_email, $subject_line);
                 // }
-                
+
                 $mail->AddBCC(DCB_INQUIRY_EMAIL, $subject_line);
                 $mail->addReplyTo($email, $subject_line);
               }
@@ -208,6 +208,61 @@ if ($response->result) {
               $curlArr['bcoz'] = "MAIL SEND SUCCUSS";
               $curlArr['status'] = "SUCCESS";
               $response = send_request($curlArr);
+
+              $message_body1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+            <html>
+              <head>
+                <meta http-equiv="content-type" content="text/html; charset=windows-1250">
+                <meta name="generator" content="PSPad editor, www.pspad.com">
+                <title></title>
+                <style type="text/css">span.go{display:none} .go{display:none}</style>
+              </head>
+              <body>
+                <div style="font-family:arial;font-size:12px;font-weight:normal;color:#000000;background:#ffffff;border:10px solid #cccccc;width:600px;padding:20px;margin: 0px auto;">
+                  <table border="1" cellpadding="5" style="width:500px;font-family:arial;font-size:12px;font-weight:normal;color:#000000;border-collapse:collapse;border:1px solid #cccccc;border-color:#cccccc">
+                    <tbody>
+                     <tr>
+                        <td colspan="2" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000;border-bottom:3px solid #cccccc">
+                        Hello ' . $name . '
+                         </td>
+                      </tr>
+                      <tr>
+                        <td colspan="2" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000;border-bottom:3px solid #cccccc">
+                        Thank you for reaching out to Allvege Process Technologies.<br />
+We\'ve successfully received your message and our team has been notified.<br />
+One of our representatives will review your enquiry and get back to you shortly with the required information or next steps.<br />
+Ne appreciate your interest and look forward to assisting you.<br />
+Narm regards,<br />
+Allvege Process Technologies Team
+                        </td>
+                      </tr>
+                      
+                      
+
+                    </tbody>
+                  </table>
+                </div>
+              </body>
+            </html>
+            ';
+              $mail1 = new PHPMailer(true); // the true param means it will throw exceptions on errors, which we need to catch
+              $mail1->IsSMTP();
+              $mail1->Host = "mail.smtp2go.com"; // SMTP server
+              $mail1->SMTPDebug = 0;
+              $mail1->AddAddress($email, "We've received your message - thank you for contacting us");
+              $mail1->SetFrom($from_email, "We've received your message - thank you for contacting us");
+              $mail1->Port = 465;
+              $mail1->Subject = "We've received your message - thank you for contacting us";
+              $mail1->SMTPAuth = true;
+              $mail1->SMTPSecure = 'ssl'; // secure transfer enabled REQUIRED for GMail
+              $mail1->Username = SMTP2GO_USERNAME;
+              $mail1->Password = SMTP2GO_PASSWORD;
+              $mail1->MsgHTML($message_body1);
+              //$mail1->AddAttachment('images/phpmailer.gif');      // attachment
+              // $mail1->AddAttachment('images/phpmailer_mini.gif'); // attachment
+              $mail1->Send();
+
+
               header('location:' . $thanks_page);
               //echo "Message Sent OK<p></p>\n";
             } catch (phpmailerException $e) {
