@@ -16427,7 +16427,7 @@ section.sec-pad .container {
   flex-direction: column;
   justify-content: center;
   height: 100%;
-  padding-left: 30px;
+  /* padding-left: 30px; */
   gap: 10px;
 }
 
@@ -16959,5 +16959,64 @@ section.sec-pad .container {
 
     .innerProductDetails, .tableData, .feacture {
         padding: 30px 0px;
+    }
+}
+
+.product-section {
+    padding: 60px 0;
+}
+
+.section-title {
+    font-size: 36px;
+    margin-bottom: 40px;
+    font-weight: 600;
+    color: #1e2d3b;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.product-card {
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    transition: 0.3s ease;
+    overflow: hidden;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.15);
+}
+
+.product-card img {
+    width: 100%;
+    padding: 10px;
+    transition: 0.3s ease;
+}
+
+.product-card:hover img {
+    transform: scale(1.03);
+}
+
+.product-title {
+    background: #e67e22;
+    color: #fff;
+    padding: 18px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+@media (max-width: 992px) {
+    .product-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .product-grid {
+        grid-template-columns: 1fr;
     }
 }

@@ -9,23 +9,150 @@
     </div>
 </div>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+
+<section class="product-section">
+    <div class="container">
+        <h2 class="section-title">Potato Lines</h2>
+
+        <div class="product-grid">
+
+            <!-- LOOP START -->
+            
+            <!-- 1 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (1)"
+                   href="assets/img/products/details/potato-grading-lines/potato-1.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-1.webp" alt="Potato Line (1)">
+                </a>
+                <div class="product-title">Potato Line (1)</div>
+            </div>
+
+            <!-- 2 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (2)"
+                   href="assets/img/products/details/potato-grading-lines/potato-2.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-2.webp" alt="Potato Line (2)">
+                </a>
+                <div class="product-title">Potato Line (2)</div>
+            </div>
+
+            <!-- 3 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (3)"
+                   href="assets/img/products/details/potato-grading-lines/potato-3.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-3.webp" alt="Potato Line (3)">
+                </a>
+                <div class="product-title">Potato Line (3)</div>
+            </div>
+
+            <!-- 4 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (4)"
+                   href="assets/img/products/details/potato-grading-lines/potato-4.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-4.webp" alt="Potato Line (4)">
+                </a>
+                <div class="product-title">Potato Line (4)</div>
+            </div>
+
+            <!-- 5 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (5)"
+                   href="assets/img/products/details/potato-grading-lines/potato-5.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-5.webp" alt="Potato Line (5)">
+                </a>
+                <div class="product-title">Potato Line (5)</div>
+            </div>
+
+            <!-- 6 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (6)"
+                   href="assets/img/products/details/potato-grading-lines/potato-6.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-6.webp" alt="Potato Line (6)">
+                </a>
+                <div class="product-title">Potato Line (6)</div>
+            </div>
+
+            <!-- 7 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (7)"
+                   href="assets/img/products/details/potato-grading-lines/potato-7.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-7.webp" alt="Potato Line (7)">
+                </a>
+                <div class="product-title">Potato Line (7)</div>
+            </div>
+
+            <!-- 8 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (8)"
+                   href="assets/img/products/details/potato-grading-lines/potato-8.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-8.webp" alt="Potato Line (8)">
+                </a>
+                <div class="product-title">Potato Line (8)</div>
+            </div>
+
+            <!-- 9 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (9)"
+                   href="assets/img/products/details/potato-grading-lines/potato-9.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-9.webp" alt="Potato Line (9)">
+                </a>
+                <div class="product-title">Potato Line (9)</div>
+            </div>
+
+            <!-- 10 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (10)"
+                   href="assets/img/products/details/potato-grading-lines/potato-10.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-10.webp" alt="Potato Line (10)">
+                </a>
+                <div class="product-title">Potato Line (10)</div>
+            </div>
+
+            <!-- 11 -->
+            <div class="product-card">
+                <a data-fancybox="potato-lines"
+                   data-caption="Potato Line (11)"
+                   href="assets/img/products/details/potato-grading-lines/potato-11.webp">
+                    <img src="assets/img/products/details/potato-grading-lines/potato-11.webp" alt="Potato Line (11)">
+                </a>
+                <div class="product-title">Potato Line (11)</div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
 <div class="productSec">
     <div class="innerProductDetails">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12 col-md-6">
+
+                <!-- <div class="col-sm-12 col-md-6">
                     <div class="productImg">
                         <div class="swiper productSwiper">
                             <div class="swiper-wrapper">
                                 <?php
-                                $nb_elem_per_page = 100;
-                                $page = isset($_GET['page']) ? intval($_GET['page'] - 1) : 0;
-                                $data = glob("assets/img/products/details/potato-grading-lines/*.*");
-                                $number_of_pages = intval(count($data) / $nb_elem_per_page) + 1;
-                                foreach (array_slice($data, $page * $nb_elem_per_page, $nb_elem_per_page) as $p) {
+                                #$nb_elem_per_page = 100;
+                                #$page = isset($_GET['page']) ? intval($_GET['page'] - 1) : 0;
+                                #$data = glob("assets/img/products/details/potato-grading-lines/*.*");
+                                #$number_of_pages = intval(count($data) / $nb_elem_per_page) + 1;
+                                #foreach (array_slice($data, $page * $nb_elem_per_page, $nb_elem_per_page) as $p) {
                                 ?>
-                                    <div class="swiper-slide"> <img src="<?php echo $p; ?>" alt=""></div>
-                                <?php } ?>
+                                    <div class="swiper-slide"> <img src="<?php #echo $p; ?>" alt=""></div>
+                                <?php #} ?>
                             </div>
                             <div class="swiper-pagination"></div>
                             <div class="swiper-button-prev"></div>
@@ -33,12 +160,9 @@
                         </div>
 
                     </div>
-                    <!-- <div class="productImg">
-                        <img src="assets/img/products/details/potato-grading-lines/potato-grading-lines.webp" alt="Potato Grading Lines" class="img-fluid">
-                    </div> -->
-                </div>
+                </div> -->
 
-                <div class="col-sm-12 col-md-6">
+                <div class="col-sm-12 col-md-12">
                     <div class="productContent">
                         <div class="title-area mb-0">
                             <span class="sub-title">Engineered for Precision
