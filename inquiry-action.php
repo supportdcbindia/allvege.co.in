@@ -209,41 +209,82 @@ if ($response->result) {
               $curlArr['status'] = "SUCCESS";
               $response = send_request($curlArr);
 
-              $message_body1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-            <html>
-              <head>
-                <meta http-equiv="content-type" content="text/html; charset=windows-1250">
-                <meta name="generator" content="PSPad editor, www.pspad.com">
-                <title></title>
-                <style type="text/css">span.go{display:none} .go{display:none}</style>
-              </head>
-              <body>
-                <div style="font-family:arial;font-size:12px;font-weight:normal;color:#000000;background:#ffffff;border:10px solid #cccccc;width:600px;padding:20px;margin: 0px auto;">
-                  <table border="1" cellpadding="5" style="width:500px;font-family:arial;font-size:12px;font-weight:normal;color:#000000;border-collapse:collapse;border:1px solid #cccccc;border-color:#cccccc">
-                    <tbody>
-                     <tr>
-                        <td colspan="2" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000;border-bottom:3px solid #cccccc">
-                        Hello ' . $name . '
-                         </td>
-                      </tr>
-                      <tr>
-                        <td colspan="2" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000;border-bottom:3px solid #cccccc">
-                        Thank you for reaching out to Allvege Process Technologies.<br />
-We\'ve successfully received your message and our team has been notified.<br />
-One of our representatives will review your enquiry and get back to you shortly with the required information or next steps.<br />
-Ne appreciate your interest and look forward to assisting you.<br />
-Narm regards,<br />
-Allvege Process Technologies Team
-                        </td>
-                      </tr>
-                      
-                      
+              $message_body1 = '<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Thank You - Allvege Process Technologies</title>
+</head>
 
-                    </tbody>
-                  </table>
-                </div>
-              </body>
-            </html>
+<body style="margin:0; padding:0; background:#eef2f7; font-family: \'Segoe UI\', Arial, sans-serif;">
+
+<div style="max-width:650px; margin:40px auto; background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+
+    <!-- Top Gradient Header -->
+    <div style="background:linear-gradient(135deg,#0d6efd,#0a3d91); padding:35px 30px; color:#ffffff; text-align:center;">
+        <h1 style="margin:0; font-weight:600; font-size:22px; letter-spacing:0.5px;color: #fff;">
+            Thank You for Connecting With Us!
+        </h1>
+        <p style="margin-top:8px; font-size:14px; opacity:0.9;color: #fff;">
+            Allvege Process Technologies
+        </p>
+    </div>
+
+    <!-- Accent Divider -->
+    <div style="height:5px; background:#ff9800;"></div>
+
+    <!-- Body Content -->
+    <div style="padding:35px 40px; color:#333; font-size:15px; line-height:1.8;">
+
+        <p style="margin-top:0;">Hello <strong>'.$name.'</strong>,</p>
+
+        <p>
+            We’ve successfully received your enquiry and our technical team has been notified.
+            Thank you for your interest in <strong>Allvege Process Technologies</strong>.
+        </p>
+
+        <p>
+            Our representative will carefully review your message and respond shortly with
+            the required information or next steps.
+        </p>
+
+        <div style="margin:30px 0; padding:20px; background:#f8fafc; border-left:4px solid #0d6efd; border-radius:6px;">
+            <strong>What happens next?</strong><br>
+            ✔ Enquiry review by our team<br>
+            ✔ Technical assessment (if required)<br>
+            ✔ Prompt response within 24–48 working hours
+        </div>
+
+        <p>
+            We appreciate the opportunity to serve you and look forward to building a strong professional relationship.
+        </p>
+
+        <!-- CTA Button -->
+        <div style="text-align:center; margin:30px 0;">
+            <a href="https://www.allvegeprocess.com" 
+               style="background:#ff9800; color:#ffffff; padding:14px 28px; text-decoration:none; border-radius:50px; font-weight:600; display:inline-block;">
+               Visit Our Website
+            </a>
+        </div>
+
+        <p style="margin-bottom:0;">
+            Warm regards,<br>
+            <strong>Allvege Process Technologies Team</strong>
+        </p>
+
+    </div>
+
+    <!-- Footer -->
+    <div style="background:#0f172a; padding:18px; text-align:center; color:#ffffff; font-size:12px;">
+        © '.date("Y").'Allvege Process Technologies  
+        <br>
+        Industrial Solutions | Process Engineering | Innovation
+    </div>
+
+</div>
+
+</body>
+</html>
             ';
               $mail1 = new PHPMailer(true); // the true param means it will throw exceptions on errors, which we need to catch
               $mail1->IsSMTP();
