@@ -261,7 +261,7 @@ if ($response->result) {
 
         <!-- CTA Button -->
         <div style="text-align:center; margin:30px 0;">
-            <a href="https://www.allvegeprocess.com" 
+            <a href="https://www.allvege.co.in" 
                style="background:#ff9800; color:#ffffff; padding:14px 28px; text-decoration:none; border-radius:50px; font-weight:600; display:inline-block;">
                Visit Our Website
             </a>
