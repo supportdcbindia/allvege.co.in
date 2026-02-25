@@ -598,7 +598,7 @@
                 <div class="project-block">
                     <div class="project-img">
                         <a href="polisher.php">
-                            <img src="assets/img/image-available-soon.webp"
+                            <img src="assets/img/products/landing/polisher.webp"
                                 alt="Polisher">
                         </a>
                     </div>
