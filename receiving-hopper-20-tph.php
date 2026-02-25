@@ -3,7 +3,7 @@
     <span class="background-banner"><img src="assets/img/innerPage/breadcums/product.webp" alt=""
             class="img-fluid"></span>
     <div class="banner-tit">
-        <h2><span> Receiving Hopper (20 TPH)</span></h2>
+        <h2><span> Receiving Hopper</span></h2>
     </div>
 </div>
 
@@ -39,10 +39,10 @@
                                     <span class="dots"></span>
                                 </span>
                             </span>
-                            <h2 class="sec-title mb-0"> Receiving Hopper (20 TPH)</h2>
+                            <h2 class="sec-title mb-0"> Receiving Hopper</h2>
                         </div>
                         <div class="desc">
-                            <p>The Receiving Hopper (20 TPH) from Allvege Process Technologies is designed for high-volume produce intake, acting as a robust buffer system for continuous feeding of washing, grading, and storage lines.</p>
+                            <p>The Receiving Hopper from Allvege Process Technologies is designed for high-volume produce intake, acting as a robust buffer system for continuous feeding of washing, grading, and storage lines.</p>
 
                             <p>The hopper accepts produce from trailers, boxes, bins, and big bags. A heavy-duty moving floor transports the product diagonally upward while the inclined hopper design ensures smooth, uniform and damage-free product flow.</p>
 
