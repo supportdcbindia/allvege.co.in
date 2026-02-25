@@ -417,13 +417,13 @@
                     <div class="project-img">
                         <a href="receiving-hopper-20-tph.php">
                             <img src="assets/img/products/landing/receiving-hopper.webp"
-                                alt="Receiving Hopper (20 TPH)">
+                                alt="Receiving Hopper">
                         </a>
                     </div>
                     <div class="project-content">
                         <div class="media-body">
                             <h3 class="project-title">
-                                <a href="receiving-hopper-20-tph.php">Receiving Hopper (20 TPH)</a>
+                                <a href="receiving-hopper-20-tph.php">Receiving Hopper</a>
                             </h3>
                         </div>
                         <a href="receiving-hopper-20-tph.php" class="project-icon">
@@ -433,7 +433,7 @@
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-4">
+            <!-- <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
                         <a href="receiving-hopper-10-tph.php">
@@ -452,7 +452,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
