@@ -17020,3 +17020,78 @@ section.sec-pad .container {
         grid-template-columns: 1fr;
     }
 }
+
+
+
+
+
+ .section-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    color: #333;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 25px;
+}
+
+.feature-box {
+    background: #f9f9f9;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+.feature-header {
+    background: #3e5f4f;
+    color: #fff;
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+.feature-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.feature-list li {
+    margin-bottom: 12px;
+    padding-left: 28px;
+    position: relative;
+    color: #444;
+    font-size: 15px;
+}
+
+.feature-list li::before {
+    content: "✔";
+    position: absolute;
+    left: 0;
+    color: #2e7d32;
+    font-weight: bold;
+}
+
+.feature-img {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+@media(max-width:992px) {
+    .features-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media(max-width:768px) {
+    .features-grid {
+        grid-template-columns: 1fr;
+    }
+}
