@@ -124,11 +124,11 @@
         </div>
 
         <!-- Bag Filler -->
-        <div class="col-md-6 col-lg-4">
+        <!-- <div class="col-md-6 col-lg-4">
             <a href="bag-filler.php">
                 <div class="project-box">
                     <div class="project-img">
-                        <img src="assets/img/products/details/bag-filler/bag-filler-2.webp" alt="Bag Filler">
+                        <img src="assets/img/products/landing/" alt="Double Side Box Filler">
                     </div>
                     <div class="project-content">
                         <h3 class="project-title">
@@ -137,7 +137,7 @@
                     </div>
                 </div>
             </a>
-        </div>
+        </div> -->
 
         <!-- Box Tipper -->
         <div class="col-md-6 col-lg-4">
