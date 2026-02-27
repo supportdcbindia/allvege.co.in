@@ -16377,7 +16377,7 @@ section.sec-pad .container {
 .feature-list li {
     background-color: #fff;
     position: relative;
-    padding: 12px 0px 12px 50px;
+    padding:12px 20px 12px 35px !important;
     display: flex;
     align-items: center;
     border-radius: 20px;
@@ -17073,7 +17073,7 @@ section.sec-pad .container {
 .feature-list li::before {
     content: "✔";
     position: absolute;
-    left: 0;
+    left: 15px;
     color: #2e7d32;
     font-weight: bold;
 }
