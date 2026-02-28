@@ -126,7 +126,7 @@
 <div class="featureSection pt-40 pb-40">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-12">
                 <div class="title-area mb-4">
                     <span class="sub-title">Why Choose
                         <span class="shape right"><span class="dots"></span></span>
