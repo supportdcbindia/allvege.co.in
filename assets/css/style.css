@@ -16377,7 +16377,7 @@ section.sec-pad .container {
 .feature-list li {
     background-color: #fff;
     position: relative;
-    padding:12px 20px 12px 35px !important;
+    padding: 12px 20px 12px 50px !important;
     display: flex;
     align-items: center;
     border-radius: 20px;
@@ -17027,9 +17027,9 @@ section.sec-pad .container {
 
  .section-title {
     text-align: center;
-    font-size: 32px;
+    font-size: 20px;
     font-weight: 700;
-    margin-bottom: 40px;
+    margin: 20px 0px;
     color: #333;
 }
 
