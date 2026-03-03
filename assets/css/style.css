@@ -20039,7 +20039,7 @@ section.sec-pad .container {
 }
 
 .brands-container {
-  max-width: 1400px;
+  max-width: 1300px;
   margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
