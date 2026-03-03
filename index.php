@@ -44,13 +44,13 @@
 </div>
 
 <script>
-  // ✅ Optional: Ensure swipe works smoothly on touch devices
-  const carousel = document.querySelector('#carouselExampleControls');
-  const carouselInstance = new bootstrap.Carousel(carousel, {
-    interval: 4000, // Auto slide every 4s (optional)
-    touch: true,    // Enable swipe on mobile
-    pause: false
-  });
+    // ✅ Optional: Ensure swipe works smoothly on touch devices
+    const carousel = document.querySelector('#carouselExampleControls');
+    const carouselInstance = new bootstrap.Carousel(carousel, {
+        interval: 4000, // Auto slide every 4s (optional)
+        touch: true, // Enable swipe on mobile
+        pause: false
+    });
 </script>
 
 
@@ -82,6 +82,83 @@
         </div>
     </div>
 </div>
+
+<!-- ================= HERO TIMELINE ================= -->
+
+<section class="hero-section">
+    <div class="container-fluid">
+        <picture>
+            <source media="(max-width: 767px)" srcset="assets/img/experience-brands-mob.webp">
+            <img src="assets/img/experience-brands.webp" alt="Allvege Group Timeline" class="timeline-bg">
+        </picture>
+    </div>
+</section>
+
+<!-- ================= BRANDS HIGHLIGHT ================= -->
+
+<section class="brands-section">
+    <div class="brands-container">
+
+        <div class="brand-card">
+            <img src="assets/img/group-company-logos/pneucon.webp" alt="Pneucon">
+            <h3>Pneucon</h3>
+            <p>Industrial engineering foundation experts.</p>
+            <a href="https://pneuconheavyprojects.com" target="_blank">Visit Website</a>
+        </div>
+
+        <div class="brand-card">
+            <img src="assets/img/group-company-logos/pneucon-heavy-projects.webp" alt="Pneucon Heavy Projects">
+            <h3>Pneucon Heavy Projects</h3>
+            <p>Heavy fabrication & storage systems.</p>
+            <a href="https://pneuconheavyprojects.com" target="_blank">Visit Website</a>
+        </div>
+
+        <div class="brand-card">
+            <img src="assets/img/group-company-logos/ki-conquip.webp" alt="KI Conequip">
+            <h3>KI Conequip</h3>
+            <p>Advanced material handling systems.</p>
+            <a href="https://kiconequip.com" target="_blank">Visit Website</a>
+        </div>
+
+        <div class="brand-card">
+            <img src="assets/img/group-company-logos/airzon.webp" alt="Airzon">
+            <h3>Airzon</h3>
+            <p>Innovative compressed air technology.</p>
+            <a href="https://airzon.net" target="_blank">Visit Website</a>
+        </div>
+
+        <div class="brand-card d-none d-md-block">
+            <img src="assets/img/group-company-logos/allveg.webp" alt="Allvege Logo">
+            <h3>Allvege Process Technology</h3>
+            <p>Smart agro processing & grading solutions.</p>
+            <a href="https://allvege.co.in" target="_blank">Visit Website</a>
+        </div>
+
+    </div>
+
+    <div class="brands-container mt-2 mb-2 px-2 d-block d-md-none">
+
+        <div class="brand-card">
+            <img src="assets/img/group-company-logos/allveg.webp" alt="Allvege Logo">
+            <h3>Allvege Process Technology</h3>
+            <p>Smart agro processing & grading solutions.</p>
+            <a href="https://allvege.co.in" target="_blank">Visit Website</a>
+        </div>
+
+    </div>
+</section>
+
+<!-- ================= FUTURE SECTION ================= -->
+
+<section class="future-section">
+    <h2>Engineering the <span>Future</span></h2>
+    <p>
+        For over 25 years, the Allvege Group has delivered innovation across industrial engineering,
+        material handling, compressed air systems, and agro processing technology.
+        Our journey continues with reliability, precision, and global excellence.
+    </p>
+</section>
+
 <section class="space-top overflow-hidden pb-30 bg-top-center productSec" data-bg-src="assets/img/bg/project_bg_3.jpg">
     <div class="container">
         <div class="row text-center text-lg-start justify-content-lg-between align-items-end">
@@ -495,7 +572,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
@@ -579,7 +656,7 @@
                     </div>
                 </div>
             </div>
-            
+
 
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
@@ -727,7 +804,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-md-6 col-lg-4">
                 <div class="project-block">
                     <div class="project-img">
