@@ -150,14 +150,14 @@
 
 <!-- ================= FUTURE SECTION ================= -->
 
-<section class="future-section">
+<!-- <section class="future-section">
     <h2>Engineering the <span>Future</span></h2>
     <p>
         For over 25 years, the Allvege Group has delivered innovation across industrial engineering,
         material handling, compressed air systems, and agro processing technology.
         Our journey continues with reliability, precision, and global excellence.
     </p>
-</section>
+</section> -->
 
 <section class="space-top overflow-hidden pb-30 bg-top-center productSec" data-bg-src="assets/img/bg/project_bg_3.jpg">
     <div class="container">
