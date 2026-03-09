@@ -13,9 +13,9 @@
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/app.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/sidebar-btn.css">
-    <link rel="stylesheet" href="assets/css/model-custom.css">
+    <link rel="stylesheet" href="assets/css/style.css?ver=<?php echo time(); ?>">
+    <link rel="stylesheet" href="assets/css/sidebar-btn.css?ver=<?php echo time(); ?>">
+    <link rel="stylesheet" href="assets/css/model-custom.css?ver=<?php echo time(); ?>">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
