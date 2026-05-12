@@ -174,7 +174,7 @@ if ($response->result) {
                         </tr>
                         
                         <tr>
-                          <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Country:</td>
+                          <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">City:</td>
                           <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $city . '</b></td>
                         </tr>
 
