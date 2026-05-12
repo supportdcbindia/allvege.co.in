@@ -1,6 +1,6 @@
 RewriteEngine On
-RewriteBase /vibratory-size-separator
+RewriteBase /lp/vibratory-size-separator
 RewriteRule ^index\.html$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /vibratory-size-separator/index.html [L]
+RewriteRule . /lp/vibratory-size-separator/index.html [L]
