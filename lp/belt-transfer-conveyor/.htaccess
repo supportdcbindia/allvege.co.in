@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /lp/belt-transfer-conveyor
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /lp/belt-transfer-conveyor/index.html [L]

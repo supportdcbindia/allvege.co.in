@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /lp/potato-grading-lines
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /lp/potato-grading-lines/index.html [L]

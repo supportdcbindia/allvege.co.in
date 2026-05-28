@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /lp/bulk-bag-loading-system
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /lp/bulk-bag-loading-system/index.html [L]
