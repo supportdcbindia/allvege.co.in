@@ -33,7 +33,7 @@ function send_request($data)
 $name = htmlspecialchars(stripslashes(trim($_POST['name'])));
 $company = htmlspecialchars(stripslashes(trim($_POST['company'])));
 $email = htmlspecialchars(stripslashes(trim($_POST['email'])));
-$message = htmlspecialchars(stripslashes(trim($_POST['requirements'])));
+$message = htmlspecialchars(stripslashes(trim($_POST['message'])));
 $phone = htmlspecialchars(stripslashes(trim($_POST['phone'])));
 $city = htmlspecialchars(stripslashes(trim($_POST['city'])));
 $country = htmlspecialchars(stripslashes(trim($_POST['country'])));
