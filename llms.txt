@@ -1,0 +1,22 @@
+# Allvege Process Technologies
+
+> Manufacturer of turnkey vegetable processing machinery — grading, sorting, washing, conveying and packaging lines for potato, onion and root-crop packhouses.
+
+Allvege Process Technologies (Gujarat, India) designs and builds complete packhouse solutions and processing lines for fresh produce and processing-grade vegetables. Equipment is engineered for hygiene, throughput and continuous operation.
+
+## Pages
+
+- [Home](/): Overview of Allvege machinery and packhouse capabilities.
+- [About](/about): Company background, facility and engineering approach.
+- [Products](/products): Full catalogue of grading, sorting, washing, conveying and packaging machines.
+- [Process Flow](/process-flow): Turnkey processing lines for potato chips, French fries, potato flakes and onion processing.
+- [Industries](/industries): Industries served — potato, onion, root crops, seed and cold-storage operations.
+- [Gallery](/gallery): Installations and equipment imagery.
+- [Contact](/contact): Address, phone, email and inquiry form.
+
+## Optional
+
+- [Potato Grading & Sorting Lines](/products/potato-grading-lines)
+- [Onion Grading & Sorting Lines](/products/onion-grading-lines)
+- [Potato Chips Line](/process-flow/potato-chips)
+- [French Fries Line](/process-flow/french-fries-line)
