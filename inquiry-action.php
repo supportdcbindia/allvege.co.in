@@ -56,7 +56,7 @@ if ($response->result) {
     $response = send_request($curlArr);
     echo json_encode(array("success" => false));
 } else {
-    if (isset($name) && trim($name) !== '' && isset($email) && trim($email) !== '' && isset($phone) && trim($phone) !== '' && isset($city) && trim($city) !== '') {
+    if (isset($name) && trim($name) !== '' && isset($email) && trim($email) !== '' && isset($phone) && trim($phone) !== '') {
         if (1) {
             if (!preg_match("/^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/", $email)) {
                 //echo "ERROR junk email detact";
