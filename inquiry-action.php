@@ -118,13 +118,17 @@ if ($response->result) {
                         <tr>
                           <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Country:</td>
                           <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $country . '</b></td>
-                        </tr>
-                        
-                        <tr>
+                        </tr>';
+
+                        if (!empty($city)) {
+                          $message_body .= '
+                          <tr>
                           <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">City:</td>
                           <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $city . '</b></td>
-                        </tr>
-
+                        </tr>';
+                        }
+                        
+                        $message_body .= '
                         <tr>
                           <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Mobile:</td>
                           <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $phone . '</b></td>
@@ -171,13 +175,17 @@ if ($response->result) {
                         <tr>
                           <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Country:</td>
                           <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $country . '</b></td>
-                        </tr>
+                        </tr>';
                         
-                        <tr>
+                        if (!empty($city)) {
+                          $message_body .= '
+                          <tr>
                           <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">City:</td>
                           <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $city . '</b></td>
-                        </tr>
+                        </tr>';
+                        }
 
+                        $message_body .= '
                         <tr>
                           <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Mobile:</td>
                           <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $phone . '</b></td>
