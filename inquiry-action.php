@@ -38,6 +38,8 @@ $phone = htmlspecialchars(stripslashes(trim($_POST['phone'])));
 $city = htmlspecialchars(stripslashes(trim($_POST['city'])));
 $country = htmlspecialchars(stripslashes(trim($_POST['country'])));
 
+$capacity = htmlspecialchars(stripslashes(trim($_POST['capacity'])));
+
 $_POST['form_type'] = 'inquiry';
 
 
@@ -190,7 +192,12 @@ if ($response->result) {
                           <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Mobile:</td>
                           <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $phone . '</b></td>
                         </tr>
-                        
+
+                        <tr>
+                          <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Capacity TPH (Ton per Hour):</td>
+                          <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000"><b>' . $capacity . '</b></td>
+                        </tr>
+
                         <tr>
                           <td align="right" style="font-family:arial;font-size:12px;font-weight:normal;color:#000000">Message:</td>
                           <td style="font-family:arial;font-size:12px;font-weight:normal;color:#000000;line-height:17px"><b>' . $message . '</b></td>
