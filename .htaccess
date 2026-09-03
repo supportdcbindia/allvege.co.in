@@ -1,6 +1,31 @@
+Options -MultiViews
+
 RewriteEngine On
 RewriteBase /
+
+# -----------------------------------------
+# Force HTTPS + WWW
+# -----------------------------------------
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} !^www\.allvege\.co\.in$ [NC]
+RewriteRule ^ https://www.allvege.co.in%{REQUEST_URI} [R=301,L,NE]
+
+
+# -----------------------------------------
+# Allow index.html
+# -----------------------------------------
 RewriteRule ^index\.html$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.html [L]
+
+
+# -----------------------------------------
+# Existing files/folders
+# -----------------------------------------
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+
+# -----------------------------------------
+# React SPA fallback
+# -----------------------------------------
+RewriteRule ^ /index.html [L]
