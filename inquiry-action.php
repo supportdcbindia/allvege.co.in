@@ -93,7 +93,6 @@ if ($response->result) {
                   <meta http-equiv="content-type" content="text/html; charset=windows-1250">
                   <meta name="generator" content="PSPad editor, www.pspad.com">
                   <title></title>
-                  <style type="text/css">span.go{display:none} .go{display:none}</style>
                   </head>
                   <body>
                     <div style="font-family:arial;font-size:12px;font-weight:normal;color:#000000;background:#ffffff;border:10px solid #cccccc;width:600px;padding:20px;margin: 0px auto;">
@@ -152,7 +151,6 @@ if ($response->result) {
                   <meta http-equiv="content-type" content="text/html; charset=windows-1250">
                   <meta name="generator" content="PSPad editor, www.pspad.com">
                   <title></title>
-                  <style type="text/css">span.go{display:none} .go{display:none}</style>
                   </head>
                   <body>
                     <div style="font-family:arial;font-size:12px;font-weight:normal;color:#000000;background:#ffffff;border:10px solid #cccccc;width:600px;padding:20px;margin: 0px auto;">
